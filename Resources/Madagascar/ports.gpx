@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2020-04-18T05:57:03Z</time></metadata><wpt lat="-20.2938986" lon="44.2725029"><name>node/709046230</name><desc>harbour=yes</desc><link href="http://osm.org/browse/node/709046230"/></wpt><wpt lat="-12.7221958" lon="45.1647053"><name>Port de Longoni</name><desc>harbour=yes
+name=Port de Longoni
+phone=+33269649555
+seamark:harbour:category=container
+seamark:type=harbour</desc><link href="http://osm.org/browse/node/1819597803"/></wpt><wpt lat="-18.1562715" lon="49.4269164"><name>Port de Toamasina</name><desc>harbour=yes
+name=Port de Toamasina</desc><link href="http://osm.org/browse/node/1930998959"/></wpt><wpt lat="-11.6008976" lon="43.2606108"><name>node/4783296154</name><desc>harbour=yes
+harbour:category=bulk</desc><link href="http://osm.org/browse/node/4783296154"/></wpt><wpt lat="-18.0780529" lon="44.0270877"><name>node/5781036833</name><desc>harbour=yes</desc><link href="http://osm.org/browse/node/5781036833"/></wpt><wpt lat="-23.3775158" lon="43.6649462"><name>Port de Toliara</name><desc>harbour=yes
+name=Port de Toliara</desc><link href="http://osm.org/browse/node/6672778947"/></wpt><wpt lat="-13.354" lon="50.006"><name>Port</name><desc>harbour=yes
+name=Port</desc><link href="http://osm.org/browse/node/7017293750"/></wpt></gpx>

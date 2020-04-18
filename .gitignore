@@ -1,0 +1,35 @@
+# Unity
+/Projects/MadagascarSimulator2020/Library/
+/Projects/MadagascarSimulator2020/Temp/
+/Projects/MadagascarSimulator2020/Obj/
+/Projects/MadagascarSimulator2020/Logs/
+/Projects/MadagascarSimulator2020/Build/
+/Projects/MadagascarSimulator2020/Builds/
+/Projects/MadagascarSimulator2020/Assets/Allegorithmic*
+/Projects/MadagascarSimulator2020/Assets/AssetStoreTools*
+/Projects/MadagascarSimulator2020/Assets/TextMesh Pro*
+/Projects/MadagascarSimulator2020/Assets/Unity Technologies*
+*.pidb.meta
+sysinfo.txt
+
+# Visual Studio
+ExportedObj/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.svd
+
+# Blender
+*.blend1
+
+# Substance Designer
+.autosave/
+*.resources/
+
+# Builds
+/Builds/

@@ -1,0 +1,1072 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2020-04-18T06:24:03Z</time></metadata><wpt lat="-18.9100122" lon="47.5255809"><name>Antananarivo</name><desc>admin_level=2
+capital=yes
+ele=1300
+fixme=ele,population
+is_capital=country
+is_in=Madagascar
+is_in:continent=Africa
+is_in:country=Madagascar
+is_in:country_code=MG
+is_in:iso_3166_2=MG-T
+loc_name=Tana
+name=Antananarivo
+name:am=አንታናናሪቮ
+name:ar=أنتاناناريفو
+name:az=Antananarivu
+name:be=Антананарыву
+name:be-tarask=Антананарыва
+name:bg=Антананариво
+name:bo=ཨེན་ཊ་ན་ན་རི་བོ།
+name:ckb=ئانتاناناریڤۆ
+name:de=Antananarivo
+name:el=Ανταναναρίβο
+name:en=Antananarivo
+name:eo=Antananarivo
+name:es=Antananarivo
+name:fa=آنتاناناریوو
+name:fr=Antananarivo
+name:he=אנטננריבו
+name:hi=अन्टाननरीवो
+name:hu=Antananarivo
+name:hy=Անտանանարիվու
+name:is=Antananarívó
+name:ja=アンタナナリボ
+name:ka=ანტანანარივუ
+name:kn=ಅನ್ಟಾನನರೀವೋ
+name:ko=안타나나리보
+name:ku=Antananarivo
+name:ky=Антананариву
+name:lt=Antananaryvas
+name:lv=Antananarivu
+name:mk=Антананариво
+name:ml=ആന്റനനറീവൊ
+name:mr=अंतानानारिव्हो
+name:mrj=Антананариву
+name:oc=Antananarivo
+name:os=Антананариву
+name:pl=Antananarywa
+name:pnb=انٹاناناریوو
+name:pt=Antananarivo
+name:ru=Антананариву
+name:so=Antananarifo
+name:sr=Антананариво
+name:sv=Antananarivo
+name:ta=அண்டனானரீவோ
+name:tg=Антананариву
+name:th=อันตานานาริโว
+name:udm=Антананариву
+name:uk=Антананаріву
+name:ur=اینٹانانیریو
+name:wo=Antananariwo
+name:zh=塔那那利佛
+old_name=Tananarive
+place=city
+population=2200000
+population:date=2014
+source:name:oc=Lo Congrès
+source:population=Wikipedia
+wikidata=Q3915
+wikipedia=en:Antananarivo</desc><link href="http://osm.org/browse/node/27565116"/></wpt><wpt lat="-12.7805856" lon="45.2279908"><name>Mamoudzou</name><desc>addr:postcode=97600
+admin_level=8
+capital=4
+name=Mamoudzou
+name:ar=مامودزو
+name:el=Μαμουντζού
+name:fr=Mamoudzou
+name:he=מאמודזו
+name:lt=Mamudzu
+name:ru=Мамудзу
+name:uk=Мамудзу
+place=town
+population=53122
+source=Bing
+website=http://www.villedemamoudzou.fr/
+wikidata=Q132676
+wikipedia=fr:Mamoudzou</desc><link href="http://osm.org/browse/node/246843429"/></wpt><wpt lat="-23.354173" lon="43.66966"><name>Toliara</name><desc>capital=4
+is_in:continent=Africa
+is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Toliara
+name:en=Toliara
+name:fr=Toliara
+name:ko=톨리아라
+name:mg=Toliara
+name:ru=Тулиара
+name:uk=Туліара
+old_name=Tuléar
+place=city
+population=171000
+population:date=2014
+source:population=Wikipedia
+wikidata=Q824043
+wikipedia=fr:Toliara</desc><link href="http://osm.org/browse/node/254609408"/></wpt><wpt lat="-15.4348742" lon="49.7422912"><name>Maroantsetra</name><desc>is_in=Madagascar
+name=Maroantsetra
+name:en=Maroantsetra
+name:ru=Мароантсера
+name:uk=Мароантсера
+place=town
+wikidata=Q118175
+wikipedia=fr:Maroantsetra</desc><link href="http://osm.org/browse/node/254615144"/></wpt><wpt lat="-12.2779134" lon="49.2913394"><name>Antsiranana</name><desc>capital=4
+loc_name=Diégo
+name=Antsiranana
+name:fr=Antsiranana
+name:ja=アンツィラナナ
+name:ko=안치라나나
+name:ru=Анциранана
+old_name=Diégo-Suarez
+place=city
+population=105000
+population:date=2008
+source:population=Wikipedia
+url=https://www.youtube.com/watch?v=b9kuvfbrI38
+wikidata=Q218928</desc><link href="http://osm.org/browse/node/254616067"/></wpt><wpt lat="-13.405413" lon="48.274305"><name>Andoany</name><desc>is_in:country=Madagascar
+is_in:region=Diana
+name=Andoany
+name:fr=Hell-Ville
+name:mg=Andoany
+place=town
+population=30000
+population:date=2001
+source:population=Wikipedia
+wikidata=Q492217
+wikipedia=fr:Andoany</desc><link href="http://osm.org/browse/node/254616909"/></wpt><wpt lat="-15.7181492" lon="46.3172577"><name>Mahajanga</name><desc>alt_name:fr=Majunga
+capital=4
+is_in:continent=Africa
+is_in:country=Madagascar
+is_in:region=Boeny
+name=Mahajanga
+name:en=Mahajanga
+name:fr=Mahajanga
+name:ko=마하장가
+name:mg=Mahajanga
+name:ru=Махадзанга
+name:uk=Махадзанга
+old_name=Majunga
+place=city
+population=244279
+population:date=2014
+source:population=Wikipedia
+wikidata=Q218753</desc><link href="http://osm.org/browse/node/254618037"/></wpt><wpt lat="-22.4038122" lon="46.129972"><name>Ihosy</name><desc>capital=4
+ele=747
+is_in:country=Madagascar
+is_in:region=Ihorombe
+name=Ihosy
+place=town
+wikidata=Q1657947
+wikipedia=en:Ihosy</desc><link href="http://osm.org/browse/node/300217995"/></wpt><wpt lat="-22.9119193" lon="44.5323696"><name>Sakaraha</name><desc>ele=472
+is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Sakaraha
+place=town
+wikipedia=fr:Sakaraha</desc><link href="http://osm.org/browse/node/300218243"/></wpt><wpt lat="-19.871403" lon="47.034667"><name>Antsirabe</name><desc>capital=4
+name=Antsirabe
+name:ar=أنتسيرابي
+name:ja=アンツィラベ
+name:ko=안치라베
+name:ru=Анцирабе
+name:zh=安齐拉贝
+place=city
+population=307102
+population:date=2017
+source:population=Wikipedia
+wikidata=Q583184</desc><link href="http://osm.org/browse/node/300272255"/></wpt><wpt lat="-16.011496" lon="45.866061"><name>Mitsinjo</name><desc>is_in:country=Madagascar
+is_in:region=Boeny
+name=Mitsinjo
+place=town
+wikidata=Q1099442</desc><link href="http://osm.org/browse/node/300378189"/></wpt><wpt lat="-16.1088044" lon="46.642048"><name>Marovoay</name><desc>is_in:country=Madagascar
+is_in:region=Boeny
+name=Marovoay
+place=town
+wikidata=Q1902425
+wikipedia=fr:Marovoay</desc><link href="http://osm.org/browse/node/300379949"/></wpt><wpt lat="-16.949606" lon="46.828176"><name>Maevatanàna</name><desc>GNS:id=-215189
+capital=4
+is_in:country=Madagascar
+is_in:region=Betsiboka
+name=Maevatanàna
+place=town
+wikidata=Q1328830
+wikipedia=fr:Maevatanana</desc><link href="http://osm.org/browse/node/300382318"/></wpt><wpt lat="-17.695381" lon="45.664521"><name>Ambatomainty</name><desc>is_in:country=Madagascar
+is_in:region=Melaky
+name=Ambatomainty
+place=town
+wikidata=Q2841936</desc><link href="http://osm.org/browse/node/300385305"/></wpt><wpt lat="-18.3143698" lon="47.1145171"><name>Ankazobe</name><desc>name=Ankazobe
+place=town
+wikidata=Q2850305
+wikipedia=fr:Ankazobe</desc><link href="http://osm.org/browse/node/300385517"/></wpt><wpt lat="-18.4521464" lon="46.5627911"><name>Fenoarivobe</name><desc>alt_name=Fenoarivo Afovoany
+is_in:country=Madagascar
+is_in:region=Bongolava
+name=Fenoarivobe
+place=town
+wikipedia=fr:Fenoarivobe</desc><link href="http://osm.org/browse/node/300385656"/></wpt><wpt lat="-17.8184229" lon="44.9254587"><name>Morafenobe</name><desc>is_in:country=Madagascar
+is_in:region=Melaky
+name=Morafenobe
+place=town</desc><link href="http://osm.org/browse/node/300385953"/></wpt><wpt lat="-18.0608947" lon="44.023951"><name>Maintirano</name><desc>capital=4
+name=Maintirano
+name:en=Maintirano
+place=town
+wikidata=Q2531012
+wikipedia=fr:Maintirano</desc><link href="http://osm.org/browse/node/300387736"/></wpt><wpt lat="-16.7465143" lon="44.4870313"><name>Besalampy</name><desc>is_in:country=Madagascar
+is_in:region=Melaky
+name=Besalampy
+place=town
+wikidata=Q1099539</desc><link href="http://osm.org/browse/node/300388295"/></wpt><wpt lat="-16.102869" lon="45.328472"><name>Soalala</name><desc>is_in:country=Madagascar
+is_in:region=Boeny
+name=Soalala
+place=town
+wikidata=Q2480172</desc><link href="http://osm.org/browse/node/300388620"/></wpt><wpt lat="-19.405829" lon="46.952232"><name>Faratsiho</name><desc>is_in:country=Madagascar
+is_in:region=Vakinankaratra
+name=Faratsiho
+place=town
+wikidata=Q1343729
+wikipedia=fr:Faratsiho</desc><link href="http://osm.org/browse/node/300388920"/></wpt><wpt lat="-19.1707551" lon="46.7386858"><name>Soavinandriana</name><desc>GNS:id=-221882
+is_in:country=Madagascar
+is_in:region=Itasy
+name=Soavinandriana
+place=town
+wikidata=Q3117789
+wikipedia=fr:Soavinandriana</desc><link href="http://osm.org/browse/node/300388948"/></wpt><wpt lat="-18.956006" lon="46.906709"><name>Miarinarivo</name><desc>capital=4
+name=Miarinarivo
+place=town
+wikidata=Q155530
+wikipedia=fr:Miarinarivo</desc><link href="http://osm.org/browse/node/300389431"/></wpt><wpt lat="-18.7698412" lon="46.0495226"><name>Tsiroanomandidy</name><desc>capital=4
+is_in:country=Madagascar
+is_in:region=Bongolava
+name=Tsiroanomandidy
+place=town
+wikidata=Q1649287
+wikipedia=fr:Tsiroanomandidy</desc><link href="http://osm.org/browse/node/300389556"/></wpt><wpt lat="-20.533051" lon="47.244855"><name>Ambositra</name><desc>capital=4
+ele=1350
+name=Ambositra
+place=town
+wikidata=Q458440
+wikipedia=fr:Ambositra</desc><link href="http://osm.org/browse/node/316841166"/></wpt><wpt lat="-21.106357" lon="47.214455"><name>Ambohimahasoa</name><desc>ele=1234
+is_in:country=Madagascar
+is_in:region=Matsiatra Ambony
+name=Ambohimahasoa
+place=town
+wikidata=Q2778665</desc><link href="http://osm.org/browse/node/316842941"/></wpt><wpt lat="-21.456444" lon="47.085149"><name>Fianarantsoa</name><desc>capital=4
+is_in:continent=Africa
+is_in:country=Madagascar
+is_in:region=Matsiatra Ambony
+name=Fianarantsoa
+name:ko=피아나란초아
+name:ru=Фианаранцуа
+place=city
+population=200482
+postal_code=301
+source:population=Wikipedia
+wikidata=Q527441
+wikipedia=fr:Fianarantsoa</desc><link href="http://osm.org/browse/node/316843071"/></wpt><wpt lat="-22.5574758" lon="45.413926"><name>Ranohira</name><desc>ele=848
+is_in:district=Ihosy
+is_in:region=Ihorombe
+name=Ranohira
+place=town</desc><link href="http://osm.org/browse/node/316844298"/></wpt><wpt lat="-22.700384" lon="45.2147386"><name>Ilakaka</name><desc>ele=754
+name=Ilakaka
+place=town
+wikidata=Q3108180</desc><link href="http://osm.org/browse/node/316844748"/></wpt><wpt lat="-18.1553985" lon="49.4098352"><name>Toamasina</name><desc>alt_name:fr=Tamatave
+capital=4
+is_in:country=Madagascar
+is_in:region=Atsinanana
+name=Toamasina
+name:ar=أنتسيرابي
+name:en=Toamasina
+name:fr=Toamasina
+name:ja=トアマシナ
+name:ko=토아마시나
+name:ru=Туамасина
+old_name=Tamatave
+place=city
+population=300813
+population:date=2014
+source:population=Wikipedia
+wikidata=Q178067
+wikipedia=en:Toamasina</desc><link href="http://osm.org/browse/node/335711690"/></wpt><wpt lat="-20.408832" lon="45.046357"><name>Ankilizato</name><desc>ele=185
+is_in:country=Madagascar
+is_in:region=Menabe
+name=Ankilizato
+place=town
+wikidata=Q927237</desc><link href="http://osm.org/browse/node/337945914"/></wpt><wpt lat="-11.6931255" lon="43.2543044"><name>Moroni موروني</name><desc>admin_level=2
+capital=yes
+is_capital=country
+is_in=Comoros
+is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Moroni موروني
+name:am=ሞሮኒ
+name:ar=موروني
+name:be=Мароні
+name:bg=Морони
+name:bo=མོ་རོ་ནི།
+name:ckb=مۆرۆنی
+name:de=Moroni
+name:el=Μορονί
+name:en=Moroni
+name:es=Moroni
+name:fa=موروني
+name:fr=Moroni
+name:fy=Morony
+name:he=מורוני
+name:hu=Moroni
+name:hy=Մորոնի
+name:id=Moroni
+name:is=Moróní
+name:ja=モロニ
+name:jv=Moroni
+name:ka=მორონი
+name:ko=모로니
+name:ku=Moronî
+name:ky=Морони
+name:lt=Moronis
+name:mk=Морони
+name:mn=Морони
+name:mr=मोरोनी
+name:oc=Moròni
+name:pl=Moroni
+name:pnb=مورونی
+name:ru=Морони
+name:sco=Moroni
+name:simple=Moroni
+name:sr=Морони
+name:sv=Moroni
+name:ta=மூறூனீ
+name:th=โมโรนี
+name:tl=Moroni
+name:udm=Морони
+name:uk=Мороні
+name:ur=مورونی
+name:vi=Moroni
+name:war=Moroni
+name:yo=Moroni
+name:zh=莫羅尼
+place=city
+population=111329
+source:population=French Wikipedia
+wikidata=Q3901
+wikipedia=ar:موروني</desc><link href="http://osm.org/browse/node/339324562"/></wpt><wpt lat="-15.5668595" lon="47.6207245"><name>Boriziny</name><desc>ele=49
+is_in:country=Madagascar
+is_in:region=Sofia
+loc_name=Port-Bergé
+name=Boriziny
+name:fr=Port-Bergé
+place=town</desc><link href="http://osm.org/browse/node/340427004"/></wpt><wpt lat="-16.436889" lon="47.156923"><name>Ambondromamy</name><desc>ele=50
+is_in:country=Madagascar
+is_in:region=Boeny
+name=Ambondromamy
+place=town
+wikidata=Q2842315</desc><link href="http://osm.org/browse/node/574302812"/></wpt><wpt lat="-15.9127159" lon="45.8380586"><name>Namakia</name><desc>GNS:id=-219704
+is_in:country=Madagascar
+is_in:region=Boeny
+name=Namakia
+place=town</desc><link href="http://osm.org/browse/node/574455512"/></wpt><wpt lat="-18.920447" lon="47.810272"><name>Manjakandriana</name><desc>is_in:country=Madagascar
+is_in:region=Analamanga
+name=Manjakandriana
+place=town
+wikidata=Q1523009
+wikipedia=fr:Manjakandriana</desc><link href="http://osm.org/browse/node/590835579"/></wpt><wpt lat="-18.8208628" lon="49.0694434"><name>Ampasimanolotra</name><desc>alt_name=Brickaville
+is_in:country=Madagascar
+is_in:region=Atsinanana
+name=Ampasimanolotra
+name:fr=Brickaville
+name:mg=Ampasimanolotra
+place=town
+wikidata=Q474422</desc><link href="http://osm.org/browse/node/593976824"/></wpt><wpt lat="-18.8186405" lon="47.4395021"><name>Ambohidratrimo</name><desc>name=Ambohidratrimo
+place=town</desc><link href="http://osm.org/browse/node/637715770"/></wpt><wpt lat="-18.7481667" lon="47.3454999"><name>Mahitsy</name><desc>name=Mahitsy
+place=town</desc><link href="http://osm.org/browse/node/637715789"/></wpt><wpt lat="-18.9471494" lon="48.2304269"><name>Moramanga</name><desc>is_in:country=Madagascar
+is_in:region=Alaotra-Mangoro
+name=Moramanga
+place=town
+population=42300
+population:date=2010
+source:population=Wikipedia
+wikipedia=fr:Moramanga</desc><link href="http://osm.org/browse/node/664492742"/></wpt><wpt lat="-17.382029" lon="49.4099733"><name>Fenoarivo Atsinanana</name><desc>GNS:dsg_code=PPLA2
+GNS:id=-213051
+GNS:modify_dat=2013-05-02
+capital=4
+is_in:country=Madagascar
+is_in:region=Analanjirofo
+loc_name=Fénérive Est
+name=Fenoarivo Atsinanana
+name:fr=Fénérive Est
+name:mg=Fenoarivo Atsinanana
+place=town
+population=18000
+population:date=2012
+source=GNS
+source:population=Wikipedia
+wikipedia=fr:Fenoarivo Atsinanana</desc><link href="http://osm.org/browse/node/671507246"/></wpt><wpt lat="-16.9996379" lon="49.8525772"><name>Ambodifotatra</name><desc>alt_name=Ambodifototra
+is_in:country=Madagascar
+is_in:region=Analanjirofo
+name=Ambodifotatra
+place=town
+wikipedia=fr:Ambodifototra</desc><link href="http://osm.org/browse/node/678832056"/></wpt><wpt lat="-21.831986" lon="46.9374742"><name>Ambalavao</name><desc>ele=1025
+is_in:country=Madagascar
+is_in:region=Matsiatra Ambony
+name=Ambalavao
+place=town
+wikidata=Q2092364
+wikipedia=fr:Ambalavao</desc><link href="http://osm.org/browse/node/701529816"/></wpt><wpt lat="-20.2951102" lon="44.2786121"><name>Morondava</name><desc>capital=4
+is_in:country=Madagascar
+is_in:region=Menabe
+name=Morondava
+name:ja=モロンダバ
+name:ko=모론다바
+name:ru=Мурундава
+name:zh=穆龙达瓦
+place=town
+wikidata=Q864109
+wikipedia=en:Morondava</desc><link href="http://osm.org/browse/node/710305755"/></wpt><wpt lat="-19.3858258" lon="47.4271559"><name>Ambatolampy</name><desc>is_in:country=Madagascar
+is_in:region=Vakinankaratra
+name=Ambatolampy
+place=town
+wikidata=Q427722
+wikipedia=fr:Ambatolampy</desc><link href="http://osm.org/browse/node/711526109"/></wpt><wpt lat="-14.8775272" lon="47.98715"><name>Antsohihy</name><desc>capital=4
+is_in:country=Madagascar
+is_in:region=Sofia
+name=Antsohihy
+place=town
+wikidata=Q609567
+wikipedia=fr:Antsohihy</desc><link href="http://osm.org/browse/node/713524647"/></wpt><wpt lat="-14.630431" lon="47.750364"><name>Analalava</name><desc>is_in:country=Madagascar
+is_in:region=Sofia
+name=Analalava
+place=town
+wikidata=Q484581</desc><link href="http://osm.org/browse/node/713527688"/></wpt><wpt lat="-13.6758118" lon="48.4527762"><name>Ambanja</name><desc>name=Ambanja
+place=town
+wikidata=Q456642
+wikipedia=fr:Ambanja</desc><link href="http://osm.org/browse/node/715574491"/></wpt><wpt lat="-14.662207" lon="49.651725"><name>Andapa</name><desc>is_in:country=Madagascar
+is_in:region=Sava
+name=Andapa
+place=town
+wikidata=Q2526503
+wikipedia=fr:Andapa</desc><link href="http://osm.org/browse/node/721308145"/></wpt><wpt lat="-14.254956" lon="50.1556533"><name>Sambava</name><desc>capital=4
+is_in:country=Madagascar
+is_in:region=Sava
+name=Sambava
+name:ja=サンババ
+place=town
+wikidata=Q254480
+wikipedia=fr:Sambava</desc><link href="http://osm.org/browse/node/724157435"/></wpt><wpt lat="-19.7014439" lon="44.5483552"><name>Belo-Tsiribihina</name><desc>is_in:country=Madagascar
+is_in:region=Menabe
+loc_name=Belo
+name=Belo-Tsiribihina
+place=town
+wikipedia=fr:Belon'i Tsiribihina</desc><link href="http://osm.org/browse/node/725564687"/></wpt><wpt lat="-13.194439" lon="49.049956"><name>Ambilobe</name><desc>is_in:country=Madagascar
+is_in:region=Diana
+name=Ambilobe
+name:ru=Амбилубе
+place=town
+wikidata=Q457534
+wikipedia=fr:Ambilobe</desc><link href="http://osm.org/browse/node/726665354"/></wpt><wpt lat="-25.318547" lon="45.484057"><name>Tsihombe</name><desc>ele=79
+is_in:country=Madagascar
+is_in:region=Androy
+name=Tsihombe
+place=town
+wikidata=Q3541560
+wikipedia=fr:Tsihombe</desc><link href="http://osm.org/browse/node/727284605"/></wpt><wpt lat="-24.694126" lon="44.747682"><name>Ampanihy</name><desc>ele=250
+is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Ampanihy
+place=town
+wikidata=Q2844105
+wikipedia=fr:Ampanihy</desc><link href="http://osm.org/browse/node/727284608"/></wpt><wpt lat="-24.3505469" lon="44.5170571"><name>Ejeda</name><desc>ele=237
+is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Ejeda
+place=town</desc><link href="http://osm.org/browse/node/727284613"/></wpt><wpt lat="-23.718638" lon="44.3794652"><name>Betioka</name><desc>alt_name=Betioky
+ele=255
+is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Betioka
+place=town
+source:alt_name=GNS
+wikipedia=fr:Betioky</desc><link href="http://osm.org/browse/node/727284617"/></wpt><wpt lat="-22.8215796" lon="47.8306554"><name>Farafangana</name><desc>capital=4
+ele=22
+is_in:country=Madagascar
+is_in:region=Atsimo-Atsinanana
+name=Farafangana
+name:en=Farafangana
+name:ru=Фарафангана
+place=town
+wikidata=Q1006566
+wikipedia=fr:Farafangana</desc><link href="http://osm.org/browse/node/727292572"/></wpt><wpt lat="-22.3552806" lon="47.8400139"><name>Vohipeno</name><desc>ele=12
+is_in:country=Madagascar
+is_in:region=Atsimo-Atsinanana
+name=Vohipeno
+place=town
+wikidata=Q2638540
+wikipedia=en:Vohipeno</desc><link href="http://osm.org/browse/node/727292575"/></wpt><wpt lat="-22.144954" lon="48.006584"><name>Manakara</name><desc>capital=4
+is_in:country=Madagascar
+is_in:region=Vatovavy-Fitovinany
+name=Manakara
+place=town
+population=37928
+population:date=2010
+wikidata=Q991066
+wikipedia=fr:Manakara</desc><link href="http://osm.org/browse/node/727292577"/></wpt><wpt lat="-21.322243" lon="47.22452"><name>Alakamisy Ambohimaha</name><desc>ele=1132
+is_in:country=Madagascar
+is_in:region=Matsiatra Ambony
+name=Alakamisy Ambohimaha
+place=town
+wikidata=Q2830426</desc><link href="http://osm.org/browse/node/727298886"/></wpt><wpt lat="-19.8384467" lon="46.856368"><name>Betafo</name><desc>ele=1425
+is_in:country=Madagascar
+name=Betafo
+place=town
+source=survey
+wikidata=Q167181
+wikipedia=fr:Betafo</desc><link href="http://osm.org/browse/node/727308344"/></wpt><wpt lat="-20.0126866" lon="45.5386144"><name>Ambatolahy</name><desc>ele=110
+is_in:country=Madagascar
+name=Ambatolahy
+place=town</desc><link href="http://osm.org/browse/node/727308348"/></wpt><wpt lat="-19.5312428" lon="45.4587644"><name>Miandrivazo</name><desc>ele=79
+is_in:country=Madagascar
+is_in:region=Menabe
+name=Miandrivazo
+place=town
+wikidata=Q2573754
+wikipedia=fr:Miandrivazo</desc><link href="http://osm.org/browse/node/727308363"/></wpt><wpt lat="-19.5232253" lon="47.4319928"><name>Ambohimandroso</name><desc>ele=1563
+is_in:country=Madagascar
+is_in:region=Vakinankaratra
+name=Ambohimandroso
+place=town</desc><link href="http://osm.org/browse/node/727319438"/></wpt><wpt lat="-16.093117" lon="47.642735"><name>Mampikony</name><desc>ele=55
+is_in:country=Madagascar
+is_in:region=Sofia
+name=Mampikony
+place=town
+wikidata=Q1099436</desc><link href="http://osm.org/browse/node/731246774"/></wpt><wpt lat="-25.178407" lon="46.087784"><name>Ambovombe</name><desc>capital=4
+ele=127
+is_in:country=Madagascar
+is_in:region=Androy
+name=Ambovombe
+place=town
+wikidata=Q458507
+wikipedia=fr:Ambovombe</desc><link href="http://osm.org/browse/node/866601087"/></wpt><wpt lat="-14.9019067" lon="50.2793723"><name>Antalaha</name><desc>is_in:country=Madagascar
+is_in:region=Sava
+name=Antalaha
+name:en=Antalaha
+name:ru=Анталаха
+name:uk=Анталаха
+place=town
+wikidata=Q570816
+wikipedia=fr:Antalaha</desc><link href="http://osm.org/browse/node/888302465"/></wpt><wpt lat="-23.267109" lon="46.096189"><name>Betroka</name><desc>is_in=Madagascar
+is_in:country=Madagascar
+is_in:region=Anosy
+name=Betroka
+place=town
+wikidata=Q2900147</desc><link href="http://osm.org/browse/node/889874221"/></wpt><wpt lat="-19.9005577" lon="48.8095899"><name>Mahanoro</name><desc>is_in:country=Madagascar
+is_in:region=Atsinanana
+name=Mahanoro
+name:fr=Mahanoro
+place=town
+wikidata=Q2480166
+wikipedia=fr:Mahanoro</desc><link href="http://osm.org/browse/node/899223889"/></wpt><wpt lat="-20.0489861" lon="48.1303834"><name>Marolambo</name><desc>name=Marolambo
+place=town
+wikidata=Q3294590</desc><link href="http://osm.org/browse/node/899232764"/></wpt><wpt lat="-23.3503159" lon="47.6043136"><name>Vangaindrano</name><desc>is_in:country=Madagascar
+is_in:region=Atsimo-Atsinanana
+name=Vangaindrano
+place=town
+wikidata=Q3047030
+wikipedia=fr:Vangaindrano</desc><link href="http://osm.org/browse/node/972051892"/></wpt><wpt lat="-12.1339888" lon="44.4272275"><name>Ouani أواني</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Ouani أواني
+name:ar=أواني
+name:en=Ouani
+name:fr=Ouani
+place=town
+wikidata=Q3143004</desc><link href="http://osm.org/browse/node/1229049286"/></wpt><wpt lat="-12.0973976" lon="44.4630155"><name>Jimilime جيميليم</name><desc>is_in:country=Comoros
+name=Jimilime جيميليم
+name:ar=جيميليم
+name:fr=Jimilime
+place=town
+wikidata=Q6199270</desc><link href="http://osm.org/browse/node/1229049495"/></wpt><wpt lat="-12.1243932" lon="44.4887603"><name>Hajoho هاجهو</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+name=Hajoho هاجهو
+name:ar=هاجهو
+name:fr=Hajoho
+place=town
+wikidata=Q3125818</desc><link href="http://osm.org/browse/node/1229049545"/></wpt><wpt lat="-12.1804726" lon="44.4493718"><name>Bazimini بازيميني</name><desc>name=Bazimini بازيميني
+name:ar=بازيميني
+name:de=Bazimini
+name:en=Bazimini
+name:es=Bazimini
+name:fr=Bazimini
+place=town
+wikidata=Q548071
+wikipedia=en:Bazimini</desc><link href="http://osm.org/browse/node/1229049872"/></wpt><wpt lat="-12.2022861" lon="44.5166595"><name>Bambao بامبو</name><desc>is_in=Anjouan
+is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Bambao بامبو
+name:ar=بامبو
+name:en=Bambao
+name:fr=Bambao
+place=town
+wikidata=Q2881770</desc><link href="http://osm.org/browse/node/1229050356"/></wpt><wpt lat="-12.1509075" lon="44.4977311"><name>Harembo هارمبو</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Harembo هارمبو
+name:ar=هارمبو
+name:fr=Harembo
+place=town
+wikidata=Q3127418</desc><link href="http://osm.org/browse/node/1229050437"/></wpt><wpt lat="-12.2586544" lon="44.528851"><name>دوموني Domoni</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=دوموني Domoni
+name:ar=دوموني
+name:de=Domoni
+name:en=Domoni
+name:es=Domoni
+name:fr=Domoni
+place=town
+wikidata=Q2721251</desc><link href="http://osm.org/browse/node/1229050458"/></wpt><wpt lat="-12.7242882" lon="45.0588621"><name>Acoua</name><desc>name=Acoua
+name:ar=أكوا
+name:uk=Акуа
+place=town
+population=4624
+postal_code=97630
+source=Bing;Wikipedia
+wikidata=Q2086991
+wikipedia=fr:Acoua</desc><link href="http://osm.org/browse/node/1230942010"/></wpt><wpt lat="-12.8362311" lon="45.1127841"><name>Chiconi</name><desc>name=Chiconi
+name:ar=شيكني
+name:uk=Шиконі
+place=town
+population=6412
+postal_code=97670
+source=Bing;Wikipedia
+wikidata=Q2087010
+wikipedia=fr:Chiconi</desc><link href="http://osm.org/browse/node/1230942041"/></wpt><wpt lat="-12.9107086" lon="45.0801256"><name>Bouéni</name><desc>name=Bouéni
+name:ar=بويني
+name:uk=Буені
+place=town
+population=5298
+postal_code=97620
+source=Bing;Wikipedia
+wikidata=Q2087082
+wikipedia=fr:Bouéni</desc><link href="http://osm.org/browse/node/1230942078"/></wpt><wpt lat="-12.9356731" lon="45.1495113"><name>Chirongui</name><desc>name=Chirongui
+name:ar=شيرنغي
+name:uk=Широнгі
+place=town
+population=6613
+postal_code=97620
+source=Bing;Wikipedia
+wikidata=Q2087001
+wikipedia=fr:Chirongui</desc><link href="http://osm.org/browse/node/1230942083"/></wpt><wpt lat="-12.7819359" lon="45.2215397"><name>Cavani</name><desc>name=Cavani
+place=town
+source=Bing+wikipedia
+wikidata=Q1051788
+wikipedia=fr:Cavani</desc><link href="http://osm.org/browse/node/1230942092"/></wpt><wpt lat="-12.9132184" lon="45.194967"><name>Bandrélé</name><desc>name=Bandrélé
+name:ar=باندريلي
+name:pl=Bandrele
+name:uk=Бандреле
+place=town
+population=6843
+postal_code=97620
+source=Bing;Wikipedia
+wikidata=Q2087100
+wikipedia=fr:Bandrélé</desc><link href="http://osm.org/browse/node/1230942108"/></wpt><wpt lat="-12.9564961" lon="45.1054296"><name>Kani-Kéli</name><desc>name=Kani-Kéli
+name:ar=كاني كيلي
+name:uk=Кані-Келі
+place=town
+population=4528
+postal_code=97625
+source=Bing;Wikipedia
+wikidata=Q2087092
+wikipedia=fr:Kani-Kéli</desc><link href="http://osm.org/browse/node/1230942110"/></wpt><wpt lat="-12.735753" lon="45.2067459"><name>Koungou</name><desc>name=Koungou
+name:ar=كونغو
+name:uk=Коенгу
+place=town
+population=19843
+postal_code=97600
+source=Bing;Wikipedia
+wikidata=Q770411
+wikipedia=fr:Koungou</desc><link href="http://osm.org/browse/node/1230942206"/></wpt><wpt lat="-12.7442495" lon="45.2190802"><name>Majicavo-Koropa</name><desc>is_in=Koungou
+name=Majicavo-Koropa
+name:ar=ماجيكافو كربا
+place=town
+source=Bing+wikipedia
+wikidata=Q6737809
+wikipedia=fr:Majicavo-Koropa</desc><link href="http://osm.org/browse/node/1230942211"/></wpt><wpt lat="-12.772728" lon="45.2247989"><name>Kawéni</name><desc>alt_name=Kaouéni
+name=Kawéni
+name:ar=كاويني
+place=town
+source=Bing+wikipedia
+wikidata=Q3194368
+wikipedia=fr:Kawéni</desc><link href="http://osm.org/browse/node/1230942236"/></wpt><wpt lat="-12.8518381" lon="45.0993866"><name>Sada</name><desc>name=Sada
+name:ar=سادا
+place=town
+population=10195
+postal_code=97640
+source=Bing;Wikipedia
+wikidata=Q1920630
+wikipedia=fr:Sada (Mayotte)</desc><link href="http://osm.org/browse/node/1230942239"/></wpt><wpt lat="-12.168846" lon="44.3942831"><name>Mutsamudu موتسامودو</name><desc>name=Mutsamudu موتسامودو
+name:ar=موتسامودو
+name:en=Mutsamudu
+name:fr=Mutsamudu
+name:ko=무차무두
+place=city
+population=30000
+source=US NGA Pub. 112. 2010-11-10.
+wikidata=Q691016
+wikipedia=ar:موتسامودو</desc><link href="http://osm.org/browse/node/1295700465"/></wpt><wpt lat="-21.303481" lon="47.637777"><name>Ifanadiana</name><desc>int_name=Ifanadiana
+is_in:country=Madagascar
+is_in:region=Vatovavy-Fitovinany
+name=Ifanadiana
+place=town
+source=GPS
+wikidata=Q1099548
+wikipedia=fr:Ifanadiana</desc><link href="http://osm.org/browse/node/1314355275"/></wpt><wpt lat="-21.4341" lon="44.330361"><name>Manja</name><desc>name=Manja
+place=town
+wikidata=Q3123057
+wikipedia=en:Manja, Madagascar</desc><link href="http://osm.org/browse/node/1348423038"/></wpt><wpt lat="-17.8237084" lon="48.4267188"><name>Ambatondrazaka</name><desc>capital=4
+is_in:country=Madagascar
+is_in:region=Alaotra-Mangoro
+name=Ambatondrazaka
+place=town
+population=75675
+population:date=2004
+population:source=Wikipedia
+wikidata=Q456731
+wikipedia=fr:Ambatondrazaka</desc><link href="http://osm.org/browse/node/1492685514"/></wpt><wpt lat="-19.008458" lon="47.18008"><name>Arivonimamo</name><desc>is_in:country=Madagascar
+name=Arivonimamo
+place=town
+wikidata=Q1820954
+wikipedia=fr:Arivonimamo</desc><link href="http://osm.org/browse/node/1809417673"/></wpt><wpt lat="-21.679782" lon="45.169849"><name>Beroroha</name><desc>is_in:country=Madagascar
+name=Beroroha
+place=town
+wikidata=Q2411046
+wikipedia=fr:Beroroha</desc><link href="http://osm.org/browse/node/1811661203"/></wpt><wpt lat="-23.100785" lon="46.659336"><name>Iakora</name><desc>name=Iakora
+place=town
+wikidata=Q3147205</desc><link href="http://osm.org/browse/node/1811669671"/></wpt><wpt lat="-22.2926719" lon="44.5101013"><name>Ankazoabo</name><desc>name=Ankazoabo
+place=town</desc><link href="http://osm.org/browse/node/1812785918"/></wpt><wpt lat="-14.5423728" lon="48.7482434"><name>Bealanana</name><desc>is_in:country=Madagascar
+is_in:region=Sofia
+name=Bealanana
+place=town
+wikipedia=fr:Bealanana</desc><link href="http://osm.org/browse/node/1814931788"/></wpt><wpt lat="-19.3336272" lon="48.9790394"><name>Vatomandry</name><desc>is_in:country=Madagascar
+is_in:region=Atsinanana
+name=Vatomandry
+place=town
+wikidata=Q2638549
+wikipedia=fr:Vatomandry</desc><link href="http://osm.org/browse/node/1818141766"/></wpt><wpt lat="-16.7964602" lon="47.6514564"><name>Tsaratanàna</name><desc>is_in:country=Madagascar
+is_in:region=Betsiboka
+name=Tsaratanàna
+place=town
+wikipedia=fr:Tsaratanana</desc><link href="http://osm.org/browse/node/1821666049"/></wpt><wpt lat="-16.1687557" lon="49.7655872"><name>Mananara Avaratra</name><desc>is_in:country=Madagascar
+is_in:region=Analanjirofo
+name=Mananara Avaratra
+place=town
+wikipedia=fr:Mananara Nord</desc><link href="http://osm.org/browse/node/1842128749"/></wpt><wpt lat="-15.8434485" lon="48.8274519"><name>Mandritsara</name><desc>is_in:country=Madagascar
+is_in:region=Sofia
+name=Mandritsara
+place=town
+wikidata=Q1028283</desc><link href="http://osm.org/browse/node/1842130062"/></wpt><wpt lat="-21.7440435" lon="43.3593054"><name>Morombe</name><desc>is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Morombe
+place=town
+wikidata=Q1028252</desc><link href="http://osm.org/browse/node/1842133048"/></wpt><wpt lat="-20.550722" lon="46.803649"><name>Ambatofinandrahana</name><desc>name=Ambatofinandrahana
+place=town
+wikidata=Q456709
+wikipedia=fr:Ambatofinandrahana</desc><link href="http://osm.org/browse/node/1862490336"/></wpt><wpt lat="-19.4381358" lon="48.2060769"><name>Anosibe an'ala</name><desc>is_in:country=Madagascar
+is_in:region=Alaotra-Mangoro
+name=Anosibe an'ala
+name:ru=Аносибе-Аннала
+place=town
+wikipedia=fr:Anosibe An'ala</desc><link href="http://osm.org/browse/node/1905989268"/></wpt><wpt lat="-19.6609673" lon="47.3241456"><name>Antanifotsy</name><desc>is_in:country=Madagascar
+is_in:region=Vakinankaratra
+name=Antanifotsy
+place=town
+wikipedia=fr:Antanifotsy</desc><link href="http://osm.org/browse/node/1906027819"/></wpt><wpt lat="-16.4715557" lon="46.7145714"><name>Ambato Boeny</name><desc>GNS:id=-194774
+is_in:country=Madagascar
+is_in:region=Boeny
+name=Ambato Boeny
+place=town</desc><link href="http://osm.org/browse/node/1907078999"/></wpt><wpt lat="-21.1671472" lon="46.5980166"><name>Ikalamavony</name><desc>is_in:country=Madagascar
+is_in:region=Matsiatra Ambony
+name=Ikalamavony
+place=town
+wikidata=Q3148385</desc><link href="http://osm.org/browse/node/1907304020"/></wpt><wpt lat="-17.011109" lon="48.572085"><name>Andilamena</name><desc>is_in:country=Madagascar
+is_in:region=Alaotra-Mangoro
+name=Andilamena
+place=town
+wikidata=Q1099525
+wikipedia=fr:Andilamena</desc><link href="http://osm.org/browse/node/1912068799"/></wpt><wpt lat="-20.3785189" lon="44.6686882"><name>Mahabo</name><desc>is_in:country=Madagascar
+is_in:region=Menabe
+name=Mahabo
+place=town</desc><link href="http://osm.org/browse/node/1917609577"/></wpt><wpt lat="-20.240505" lon="47.380019"><name>Fandriana</name><desc>is_in:country=Madagascar
+is_in:region=Amoron'i Mania
+name=Fandriana
+place=town
+wikidata=Q1395492
+wikipedia=fr:Fandriana</desc><link href="http://osm.org/browse/node/1917844504"/></wpt><wpt lat="-18.4011525" lon="47.8819552"><name>Anjozorobe</name><desc>is_in:country=Madagascar
+is_in:region=Analamanga
+name=Anjozorobe
+place=town
+wikipedia=fr:Anjozorobe</desc><link href="http://osm.org/browse/node/1918891239"/></wpt><wpt lat="-21.880011" lon="47.436511"><name>Ikongo</name><desc>alt_name=Fort Carnot
+is_in:country=Madagascar
+is_in:region=Vatovavy-Fitovinany
+name=Ikongo
+place=town
+wikidata=Q1025754
+wikipedia=fr:Ikongo</desc><link href="http://osm.org/browse/node/1920569280"/></wpt><wpt lat="-23.5437542" lon="44.8075749"><name>Belamoty</name><desc>is_in:country=Madagascar
+is_in:region=Atsimo-Andrefana
+name=Belamoty
+place=town</desc><link href="http://osm.org/browse/node/1920590243"/></wpt><wpt lat="-19.485224" lon="48.574228"><name>Antanambao Manampotsy</name><desc>is_in:country=Madagascar
+is_in:region=Atsinanana
+name=Antanambao Manampotsy
+place=town
+wikidata=Q2852577</desc><link href="http://osm.org/browse/node/1920645401"/></wpt><wpt lat="-17.447812" lon="47.503936"><name>Andriamena</name><desc>is_in:country=Madagascar
+is_in:region=Betsiboka
+name=Andriamena
+place=town
+wikidata=Q2846860</desc><link href="http://osm.org/browse/node/1920684450"/></wpt><wpt lat="-15.254677" lon="48.5420235"><name>Befandriana</name><desc>GNS:id=-209644
+is_in:country=Madagascar
+is_in:region=Sofia
+name=Befandriana
+place=town</desc><link href="http://osm.org/browse/node/1935660318"/></wpt><wpt lat="-20.772357" lon="47.076545"><name>Ambovombe Afovoany</name><desc>alt_name=Ambovombe
+is_in:country=Madagascar
+loc_name=Ambovombe
+name=Ambovombe Afovoany
+place=town
+wikidata=Q2842343</desc><link href="http://osm.org/browse/node/1948690911"/></wpt><wpt lat="-19.6599454" lon="46.5332578"><name>Ankazomiriotra</name><desc>name=Ankazomiriotra
+place=town
+wikidata=Q2850306</desc><link href="http://osm.org/browse/node/1963938854"/></wpt><wpt lat="-23.835297" lon="45.714519"><name>Isoanala</name><desc>is_in:country=Madagascar
+is_in:region=Anosy
+name=Isoanala
+place=town
+wikidata=Q748440</desc><link href="http://osm.org/browse/node/1976552330"/></wpt><wpt lat="-22.4810358" lon="46.888135"><name>Ivohibe</name><desc>is_in:country=Madagascar
+is_in:region=Ihorombe
+name=Ivohibe
+place=town</desc><link href="http://osm.org/browse/node/1977886891"/></wpt><wpt lat="-25.0376768" lon="46.3841194"><name>Amboasary</name><desc>alt_name=Amboasary Atsimo
+is_in:country=Madagascar
+is_in:region=Anosy
+name=Amboasary
+place=town
+wikipedia=fr:Amboasary</desc><link href="http://osm.org/browse/node/1995273300"/></wpt><wpt lat="-24.070785" lon="46.07608"><name>Tsivory</name><desc>is_in:country=Madagascar
+is_in:region=Anosy
+name=Tsivory
+place=town
+wikidata=Q3541601</desc><link href="http://osm.org/browse/node/1995273321"/></wpt><wpt lat="-14.1449622" lon="49.8113402"><name>Amboangibe</name><desc>is_in:district=Sambava
+is_in:region=SAVA
+name=Amboangibe
+place=town</desc><link href="http://osm.org/browse/node/2004658636"/></wpt><wpt lat="-19.0001819" lon="46.4632881"><name>Sakay</name><desc>alt_name=Ankadinondry Sakay
+is_in:country=Madagascar
+is_in:region=Bongolava
+name=Sakay
+old_name=Babetville
+place=town</desc><link href="http://osm.org/browse/node/2006266811"/></wpt><wpt lat="-21.8072235" lon="47.832992"><name>Sahasinaka</name><desc>is_in:country=Madagascar
+is_in:region=Vatovavy-Fitovinany
+name=Sahasinaka
+place=town
+population=2000
+source=survey</desc><link href="http://osm.org/browse/node/2012136963"/></wpt><wpt lat="-20.347596" lon="45.596497"><name>Malaimbandy</name><desc>is_in:country=Madagascar
+is_in:region=Menabe
+name=Malaimbandy
+place=town
+wikidata=Q1099535
+wikipedia=fr:Malaimbandy</desc><link href="http://osm.org/browse/node/2028685667"/></wpt><wpt lat="-17.587293" lon="48.2237417"><name>Amparafaravola</name><desc>is_in:country=Madagascar
+is_in:region=Alaotra-Mangoro
+name=Amparafaravola
+place=town
+wikidata=Q474396
+wikipedia=fr:Amparafaravola</desc><link href="http://osm.org/browse/node/2121490022"/></wpt><wpt lat="-17.7601812" lon="48.166795"><name>Morarano-Chrome</name><desc>is_in:country=Madagascar
+is_in:region=Alaotra-Mangoro
+name=Morarano-Chrome
+place=town</desc><link href="http://osm.org/browse/node/2121490023"/></wpt><wpt lat="-19.578853" lon="46.288053"><name>Mandoto</name><desc>is_in:country=Madagascar
+is_in:region=Vakinankaratra
+name=Mandoto
+place=town
+wikidata=Q3285551</desc><link href="http://osm.org/browse/node/2207189670"/></wpt><wpt lat="-18.979123" lon="47.327946"><name>Imerintsiatosika</name><desc>is_in:country=Madagascar
+is_in:region=Itasy
+name=Imerintsiatosika
+place=town
+wikidata=Q3149001</desc><link href="http://osm.org/browse/node/2265791133"/></wpt><wpt lat="-24.2219316" lon="45.3139261"><name>Bekily</name><desc>is_in:country=Madagascar
+is_in:region=Androy
+name=Bekily
+place=town
+wikidata=Q4881615</desc><link href="http://osm.org/browse/node/2272560314"/></wpt><wpt lat="-12.1961321" lon="44.3474195"><name>Akibani أكيباني</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Akibani أكيباني
+name:ar=أكيباني
+name:fr=Akibani
+place=town
+wikidata=Q2829022</desc><link href="http://osm.org/browse/node/2317281173"/></wpt><wpt lat="-12.1981154" lon="44.2732653"><name>سيما Sima</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=سيما Sima
+name:ar=سيما
+name:de=Sima
+name:en=Sima
+name:es=Sima
+name:fr=Sima
+place=town
+wikidata=Q3110104</desc><link href="http://osm.org/browse/node/2317281174"/></wpt><wpt lat="-12.3025278" lon="43.7719476"><name>جويزي Djoiezi</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=جويزي Djoiezi
+name:ar=جويزي
+name:de=Djoiezi
+name:en=Djoiezi
+name:es=Djoiezi
+name:fr=Djoiezi
+place=town
+wikidata=Q3033049</desc><link href="http://osm.org/browse/node/2317482076"/></wpt><wpt lat="-12.2580229" lon="43.6431446"><name>دوموني Domoni</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=دوموني Domoni
+name:ar=دوموني
+name:de=Domoni
+name:en=Domoni
+name:es=Domoni
+name:fr=Domoni
+place=town</desc><link href="http://osm.org/browse/node/2317482080"/></wpt><wpt lat="-12.2841005" lon="43.7416863"><name>فومبوني Fomboni</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=فومبوني Fomboni
+name:ar=فومبوني
+name:de=Fomboni
+name:en=Fomboni
+name:es=Fomboni
+name:fr=Fomboni
+place=town
+wikidata=Q1002823</desc><link href="http://osm.org/browse/node/2317482083"/></wpt><wpt lat="-12.2583648" lon="43.675036"><name>هواني Hoani</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=هواني Hoani
+name:ar=هواني
+name:de=Hoani
+name:en=Hoani
+name:es=Hoani
+name:fr=Hoani
+place=town
+wikidata=Q3138871</desc><link href="http://osm.org/browse/node/2317482086"/></wpt><wpt lat="-12.3022872" lon="43.6366052"><name>ميرينكوني Miringoni</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=ميرينكوني Miringoni
+name:ar=ميرينكوني
+name:de=Miringoni
+name:en=Miringoni
+name:es=Miringoni
+name:fr=Miringoni
+place=town
+wikidata=Q15253551</desc><link href="http://osm.org/browse/node/2317482090"/></wpt><wpt lat="-12.364451" lon="43.7178957"><name>نيومشوا Nioumachoua</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=نيومشوا Nioumachoua
+name:ar=نيومشوا
+name:de=Nioumachoua
+name:en=Nioumachoua
+name:es=Nioumachoua
+name:fr=Nioumachoua
+place=town
+wikidata=Q3342090</desc><link href="http://osm.org/browse/node/2317482092"/></wpt><wpt lat="-12.327085" lon="43.6625136"><name>والله Ouallah</name><desc>alt_name:ar=أوالا
+is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=والله Ouallah
+name:ar=والله
+name:de=Ouallah
+name:en=Ouallah
+name:es=Ouallah
+name:fr=Ouallah
+place=town
+wikidata=Q7110170</desc><link href="http://osm.org/browse/node/2317482095"/></wpt><wpt lat="-12.3476358" lon="43.6781855"><name>ندروندروني Ndrondroni</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=ندروندروني Ndrondroni
+name:ar=ندروندروني
+name:de=Ndrondroni
+name:en=Ndrondroni
+name:es=Ndrondroni
+name:fr=Ndrondroni
+place=town
+wikidata=Q6983816</desc><link href="http://osm.org/browse/node/2317482098"/></wpt><wpt lat="-11.5644457" lon="43.2713158"><name>Hahaia هاهايا</name><desc>name=Hahaia هاهايا
+name:ar=هاهايا
+name:fr=Hahaia
+place=town
+population=2638</desc><link href="http://osm.org/browse/node/2317587042"/></wpt><wpt lat="-12.1998655" lon="44.4641536"><name>Chandra شاندرا</name><desc>name=Chandra شاندرا
+name:ar=شاندرا
+name:fr=Chandra
+place=town
+wikidata=Q2956006</desc><link href="http://osm.org/browse/node/2318289090"/></wpt><wpt lat="-25.565785" lon="45.527578"><name>Betanty</name><desc>name=Betanty
+name:en=Faux Cap
+name:fr=Faux Cap
+place=town
+wikidata=Q3067590</desc><link href="http://osm.org/browse/node/2365984337"/></wpt><wpt lat="-17.6788734" lon="49.5118525"><name>Mahavelona</name><desc>name=Mahavelona
+name:fr=Foulpointe
+place=town
+wikidata=Q3079900
+wikipedia=en:Mahavelona</desc><link href="http://osm.org/browse/node/2408636306"/></wpt><wpt lat="-22.3433944" lon="46.4862825"><name>Sakalalina</name><desc>GNS:id=-220861
+name=Sakalalina
+place=town
+source=GNS</desc><link href="http://osm.org/browse/node/2483841124"/></wpt><wpt lat="-20.350311" lon="47.295961"><name>Sandrandahy</name><desc>is_in:country=Madagascar
+is_in:region=Amoron'i Mania
+name=Sandrandahy
+place=town
+wikidata=Q3471961</desc><link href="http://osm.org/browse/node/2504068973"/></wpt><wpt lat="-21.2386743" lon="48.3467005"><name>Mananjary</name><desc>is_in:country=Madagascar
+is_in:region=Vatovavy-Fitovinany
+name=Mananjary
+name:ru=Манандзари
+place=town
+wikidata=Q2423152
+wikipedia=fr:Mananjary</desc><link href="http://osm.org/browse/node/2577165720"/></wpt><wpt lat="-23.5886941" lon="47.0157804"><name>Midongy</name><desc>alt_name=Midongy Atsimo
+is_in:country=Madagascar
+is_in:region=Atsimo-Atsinanana
+name=Midongy
+place=town</desc><link href="http://osm.org/browse/node/2927935134"/></wpt><wpt lat="-17.4664443" lon="49.1966013"><name>Vavatenina</name><desc>is_in:country=Madagascar
+is_in:region=Analanjirofo
+name=Vavatenina
+place=town
+wikidata=Q1939515
+wikipedia=fr:Vavatenina</desc><link href="http://osm.org/browse/node/2959022915"/></wpt><wpt lat="-12.2836247" lon="44.4101223"><name>Pomoni بوموني</name><desc>is_in=Moya;Sima;Anjouan
+is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Pomoni بوموني
+name:ar=بوموني
+name:en=Pomoni
+name:fr=Pomoni
+place=town
+source=http://www.fallingrain.com/world/CN/01/Pomoni.html
+source_1=http://ddata.over-blog.com/0/42/32/75/Les-lois-sur-la-decentralisation-aux-Comores-2011.pdf
+wikidata=Q7001204</desc><link href="http://osm.org/browse/node/2995360506"/></wpt><wpt lat="-25.0296943" lon="46.9903888"><name>Tôlan̈aro</name><desc>alt_name=Tolagnaro
+alt_name_1=Fort Dauphin
+alt_name_2=Taolagnaro
+capital=4
+is_in:continent=Africa
+is_in:country=Madagascar
+is_in:region=Anosy
+name=Tôlan̈aro
+name:en=Tolanaro
+name:fr=Fort Dauphin
+name:ko=톨라나로
+name:mg=Tôlan̈aro
+old_name=Fort Dauphin
+place=city
+population=61008
+wikidata=Q526568
+wikipedia=en:Tôlanaro</desc><link href="http://osm.org/browse/node/3355969555"/></wpt><wpt lat="-21.259469" lon="47.45467"><name>Ranomafana</name><desc>is_in:country=Madagascar
+is_in:region=Vatovavy-Fitovinany
+name=Ranomafana
+place=town
+wikidata=Q3419015</desc><link href="http://osm.org/browse/node/3677866835"/></wpt><wpt lat="-11.865448" lon="43.4951635"><name>Foumbouni فومبوني</name><desc>is_in:continent=Africa
+is_in:country=Comoros
+is_in:country_code=KM
+name=Foumbouni فومبوني
+name:ar=فومبوني
+name:fr=Foumbouni
+place=town
+wikidata=Q3043023</desc><link href="http://osm.org/browse/node/4052722395"/></wpt><wpt lat="-18.934047" lon="47.394874"><name>Ambatomirahavavy</name><desc>is_in:country=Madagascar
+is_in:region=Itasy
+name=Ambatomirahavavy
+place=town
+wikidata=Q2841966</desc><link href="http://osm.org/browse/node/4076617000"/></wpt><wpt lat="-19.9001695" lon="48.8094884"><name>Mahanoro</name><desc>is_in:country=Madagascar
+is_in:region=Atsinanana
+name=Mahanoro
+name:fr=Mahanoro
+place=town
+wikidata=Q2480166
+wikipedia=fr:Mahanoro</desc><link href="http://osm.org/browse/node/5488327466"/></wpt><wpt lat="-13.355284" lon="50.0070566"><name>Vohemar</name><desc>Région=Sava
+country=Madagascar
+name=Vohemar
+place=town</desc><link href="http://osm.org/browse/node/6411285142"/></wpt><wpt lat="-18.4557888" lon="45.8595246"><name>node/7194477002</name><desc>place=town
+source=Bing</desc><link href="http://osm.org/browse/node/7194477002"/></wpt><wpt lat="-12.2080089" lon="44.467106"><name>Tsembehou</name><desc>name=Tsembehou
+place=town</desc><link href="http://osm.org/browse/node/7228442367"/></wpt></gpx>

@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2020-04-18T05:47:03Z</time></metadata><wpt lat="-12.2527972" lon="49.2536402"><name>Andrakaka</name><desc>GNS:id=-202397
+aeroway=aerodrome
+icao=FMNK
+military=airfield
+name=Andrakaka
+wikidata=Q12691546</desc><link href="http://osm.org/browse/node/287589520"/></wpt><wpt lat="-18.7633668" lon="46.0511898"><name>Tsiroanomandidy</name><desc>GNS:id=-223568
+aerodrome:type=civil
+aeroway=aerodrome
+iata=WTS
+name=Tsiroanomandidy</desc><link href="http://osm.org/browse/node/352714889"/></wpt><wpt lat="-19.5592043" lon="45.4493198"><name>Miandrivazo Airport</name><desc>GNS:id=-218980
+aerodrome:type=public
+aeroway=aerodrome
+closest_town=Miandrivazo
+ele=62
+iata=ZVA
+icao=FMMN
+name=Miandrivazo Airport
+source=wikipedia
+wikidata=Q3565428
+wikipedia=en:Miandrivazo Airport</desc><link href="http://osm.org/browse/node/414349077"/></wpt><wpt lat="-11.5426654" lon="43.2717909"><name>node/602156830</name><desc>access=private
+barrier=gate</desc><link href="http://osm.org/browse/node/602156830"/></wpt><wpt lat="-16.101381" lon="45.3581714"><name>Soalala</name><desc>GNS:id=-221545
+aeroway=aerodrome
+iata=DWB
+icao=FMNO
+name=Soalala</desc><link href="http://osm.org/browse/node/663455961"/></wpt><wpt lat="-16.4232172" lon="45.3735626"><name>Kapiloza</name><desc>aeroway=aerodrome
+name=Kapiloza</desc><link href="http://osm.org/browse/node/666449709"/></wpt><wpt lat="-14.9031941" lon="47.9949366"><name>Ambalabe</name><desc>GNS:id=-209054
+aeroway=aerodrome
+iata=WAI
+icao=FMNW
+name=Ambalabe</desc><link href="http://osm.org/browse/node/713500284"/></wpt><wpt lat="-13.1865961" lon="48.9876126"><name>Ambilobe</name><desc>GNS:id=-215857
+aeroway=aerodrome
+iata=AMB
+icao=FMNE
+name=Ambilobe
+wikidata=Q3606034
+wikipedia=en:Ambilobe Airport</desc><link href="http://osm.org/browse/node/717397399"/></wpt><wpt lat="-13.3720846" lon="50.0000711"><name>Vohemar</name><desc>GNS:id=-223947
+aeroway=aerodrome
+iata=VOH
+name=Vohemar
+wikidata=Q7939430</desc><link href="http://osm.org/browse/node/717853130"/></wpt><wpt lat="-14.2781762" lon="50.1766569"><name>Aéroport de Sambava</name><desc>GNS:id=-221137
+aeroway=aerodrome
+iata=SVB
+icao=FMNS
+name=Aéroport de Sambava
+name:en=Sambava Airpoort
+wikidata=Q7409017</desc><link href="http://osm.org/browse/node/722853356"/></wpt><wpt lat="-18.6994859" lon="44.6160405"><name>Antsalova</name><desc>GNS:id=-208449
+aeroway=aerodrome
+iata=WAQ
+name=Antsalova</desc><link href="http://osm.org/browse/node/724521807"/></wpt><wpt lat="-19.6898203" lon="44.5448105"><name>Belo sur Tsiribihina</name><desc>GNS:id=-210499
+aeroway=aerodrome
+iata=BMD
+icao=FMML
+name=Belo sur Tsiribihina</desc><link href="http://osm.org/browse/node/725564921"/></wpt><wpt lat="-11.7108002" lon="43.2439003"><name>Ancien Airport Moroni</name><desc>aerodrome:type=public
+aeroway=aerodrome
+description=Former passenger airport serving Moroni. Now closed in favour of new Prince Said Ibrahim International Airport to the north.
+historic:aeroway=aerodrome
+iata=YVA
+icao=YVA
+name=Ancien Airport Moroni
+source=ourairports.com
+status=abandoned
+wikidata=Q1432070
+wikipedia=en:Iconi Airport</desc><link href="http://osm.org/browse/node/1042037111"/></wpt><wpt lat="-19.0242602" lon="47.1641378"><name>Base aérienne tactique d'Arivonimamo</name><desc>GNS:id=-209165
+aeroway=aerodrome
+name=Base aérienne tactique d'Arivonimamo
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037114"/></wpt><wpt lat="-20.3557542" lon="45.5425319"><name>Malaimbandy</name><desc>GNS:id=-216200
+aeroway=aerodrome
+iata=WML
+name=Malaimbandy
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037115"/></wpt><wpt lat="-19.8329851" lon="48.7999442"><name>Mahanoro Airport</name><desc>aeroway=aerodrome
+iata=VVB
+name=Mahanoro Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037117"/></wpt><wpt lat="-17.4648876" lon="48.3255587"><name>Ambohijanahary Airport</name><desc>GNS:id=-197547
+aeroway=aerodrome
+name=Ambohijanahary Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037118"/></wpt><wpt lat="-18.805817" lon="45.2739652"><name>Aérodrome d'Ankavandra</name><desc>GNS:id=-205115
+aeroway=aerodrome
+iata=JVA
+name=Aérodrome d'Ankavandra
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037119"/></wpt><wpt lat="-18.0499992" lon="44.0330009"><name>Maintirano Airport</name><desc>GNS:id=-216119
+aeroway=aerodrome
+iata=MXT
+name=Maintirano Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037120"/></wpt><wpt lat="-19.5830002" lon="48.8030014"><name>Niarovana Airport</name><desc>aeroway=aerodrome
+iata=ILK
+name=Niarovana Airport
+note=name suspect. Ilaka?
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037122"/></wpt><wpt lat="-17.8500623" lon="44.9211147"><name>Morafenobe Airport</name><desc>GNS:id=-219469
+aeroway=aerodrome
+iata=TVA
+name=Morafenobe Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037124"/></wpt><wpt lat="-17.4761009" lon="43.9728012"><name>Tambohorano Airport</name><desc>GNS:id=-222085
+aeroway=aerodrome
+iata=WTA
+icao=FMMU
+name=Tambohorano Airport
+source=ourairports.com
+wikipedia=en:Tambohorano Airport</desc><link href="http://osm.org/browse/node/1042037132"/></wpt><wpt lat="-20.287079" lon="44.3168582"><name>Morondava Airport</name><desc>GNS:id=-219651
+aeroway=aerodrome
+iata=MOQ
+icao=FMMV
+name=Morondava Airport
+source=ourairports.com
+wikidata=Q3606079
+wikipedia=en:Morondava Airport</desc><link href="http://osm.org/browse/node/1042037136"/></wpt><wpt lat="-19.3749233" lon="48.9388654"><name>Vatomandry Airport</name><desc>aeroway=aerodrome
+iata=VAT
+name=Vatomandry Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037140"/></wpt><wpt lat="-16.1637981" lon="49.7737999"><name>Mananara Nord Airport</name><desc>aeroway=aerodrome
+iata=WMR
+name=Mananara Nord Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037142"/></wpt><wpt lat="-14.6517" lon="49.6206017"><name>Andapa Airfield</name><desc>aeroway=aerodrome
+iata=ZWA
+name=Andapa Airfield
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037143"/></wpt><wpt lat="-15.2074248" lon="48.4824574"><name>Aérodrome de Befandriana</name><desc>GNS:id=-209645
+aeroway=aerodrome
+iata=WBD
+name=Aérodrome de Befandriana
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037145"/></wpt><wpt lat="-15.5830263" lon="47.626536"><name>Port Bergé Airport</name><desc>GNS:id=-220036
+aeroway=aerodrome
+iata=WPB
+icao=FMNG
+name=Port Bergé Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037146"/></wpt><wpt lat="-14.9990678" lon="50.3182525"><name>Antsirabato Airport</name><desc>aeroway=aerodrome
+iata=ANM
+icao=FMNH
+name=Antsirabato Airport
+source=ourairports.com
+wikidata=Q4777396</desc><link href="http://osm.org/browse/node/1042037147"/></wpt><wpt lat="-13.6446652" lon="48.4565628"><name>Ambanja Airport</name><desc>GNS:id=-194304
+aeroway=aerodrome
+alt_name=Ambanja IVA Pist
+iata=IVA
+icao=FMNJ
+name=Ambanja Airport
+source=ourairports.com
+wikipedia=en:Ambanja Airport</desc><link href="http://osm.org/browse/node/1042037148"/></wpt><wpt lat="-14.6292429" lon="47.7577163"><name>Aérodrome d'Analalava</name><desc>GNS:id=-200800
+aeroway=aerodrome
+iata=HVA
+icao=FMNL
+name=Aérodrome d'Analalava
+source=ourairports.com
+wikipedia=en:Analalava Airport</desc><link href="http://osm.org/browse/node/1042037149"/></wpt><wpt lat="-16.7452789" lon="44.4803872"><name>Besalampy Airport</name><desc>GNS:id=-211328
+aeroway=aerodrome
+iata=BPY
+icao=FMNQ
+name=Besalampy Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037152"/></wpt><wpt lat="-16.75" lon="47.6170006"><name>Tsaratanàna Airport</name><desc>aeroway=aerodrome
+iata=TTS
+name=Tsaratanàna Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037154"/></wpt><wpt lat="-15.8454475" lon="48.8390163"><name>Mandritsara Airport</name><desc>GNS:id=-217004
+aeroway=aerodrome
+iata=WMA
+name=Mandritsara Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037155"/></wpt><wpt lat="-13.488557" lon="48.6353477"><name>Ampampamena Airport</name><desc>aeroway=aerodrome
+name=Ampampamena Airport
+source=ourairports.com
+wikidata=Q1657708</desc><link href="http://osm.org/browse/node/1042037156"/></wpt><wpt lat="-21.6036514" lon="45.1356387"><name>Antsoa Airport</name><desc>aeroway=aerodrome
+iata=WBO
+icao=FMSB
+name=Antsoa Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037158"/></wpt><wpt lat="-20.984972" lon="44.9969569"><name>Mandabe Airport</name><desc>aeroway=aerodrome
+fixme=Doesn't look like an airport in Bing.
+iata=WMD
+name=Mandabe Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037159"/></wpt><wpt lat="-23.2707242" lon="46.1277043"><name>Betroka Airport</name><desc>GNS:id=-211782
+aeroway=aerodrome
+name=Betroka Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037160"/></wpt><wpt lat="-21.4262066" lon="44.3165182"><name>Manja Airport</name><desc>GNS:id=-217348
+aeroway=aerodrome
+iata=MJA
+name=Manja Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037163"/></wpt><wpt lat="-21.7011252" lon="43.7288386"><name>Samangoky Airport</name><desc>GNS:id=-222340
+aeroway=aerodrome
+iata=TDV
+name=Samangoky Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037166"/></wpt><wpt lat="-21.7506079" lon="43.3749412"><name>Morombe Airport</name><desc>GNS:id=-219642
+aeroway=aerodrome
+iata=MXM
+name=Morombe Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037167"/></wpt><wpt lat="-23.350713" lon="47.5818934"><name>Vangaindrano</name><desc>aeroway=aerodrome
+iata=VND
+name=Vangaindrano
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037168"/></wpt><wpt lat="-23.7329998" lon="44.3889999"><name>Betioky Airport</name><desc>GNS:id=-211720
+aeroway=aerodrome
+iata=BKU
+name=Betioky Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037169"/></wpt><wpt lat="-24.6996994" lon="44.7341995"><name>Ampanihy Airport</name><desc>aeroway=aerodrome
+iata=AMP
+name=Ampanihy Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037170"/></wpt><wpt lat="-22.2988757" lon="44.5328871"><name>Ankazoabo Airport</name><desc>GNS:id=-205142
+aeroway=aerodrome
+iata=WAK
+name=Ankazoabo Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042037171"/></wpt><wpt lat="-14.3681002" lon="49.5107994"><name>Doany Airfield</name><desc>GNS:id=-212528
+aeroway=aerodrome
+iata=DOA
+name=Doany Airfield
+source=ourairports.com</desc><link href="http://osm.org/browse/node/1042047884"/></wpt><wpt lat="-17.7953922" lon="48.4424785"><name>Aérodrome Feramanga Ambatondrazaka</name><desc>aeroway=aerodrome
+iata=WAM
+name=Aérodrome Feramanga Ambatondrazaka
+source=survey</desc><link href="http://osm.org/browse/node/1535757615"/></wpt><wpt lat="-15.6729434" lon="47.0615484"><name>node/1806578923</name><desc>barrier=lift_gate
+bicycle=yes
+foot=yes
+horse=yes
+motorcycle=yes</desc><link href="http://osm.org/browse/node/1806578923"/></wpt><wpt lat="-14.9514166" lon="47.3034092"><name>node/1933703657</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/1933703657"/></wpt><wpt lat="-17.6959473" lon="45.0869938"><name>Bemolanga</name><desc>aeroway=aerodrome
+name=Bemolanga</desc><link href="http://osm.org/browse/node/1964119338"/></wpt><wpt lat="-24.385938" lon="46.5551339"><name>node/2004745355</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/2004745355"/></wpt><wpt lat="-20.0153265" lon="45.5375864"><name>Amabatolahy</name><desc>GNS:id=-193313
+aeroway=aerodrome
+iata=AHY
+name=Amabatolahy</desc><link href="http://osm.org/browse/node/2012474897"/></wpt><wpt lat="-20.355391" lon="44.6473419"><name>Mahabo</name><desc>GNS:id=-215239
+aeroway=aerodrome
+name=Mahabo</desc><link href="http://osm.org/browse/node/2012474901"/></wpt><wpt lat="-24.1739282" lon="45.6655188"><name>Beraketa</name><desc>GNS:id=-211006
+aeroway=aerodrome
+name=Beraketa</desc><link href="http://osm.org/browse/node/2012474925"/></wpt><wpt lat="-24.8362043" lon="45.6739104"><name>Antanimora</name><desc>GNS:id=-207550
+aeroway=aerodrome
+name=Antanimora</desc><link href="http://osm.org/browse/node/2012474938"/></wpt><wpt lat="-25.2036556" lon="46.0707755"><name>Ambovombe</name><desc>GNS:id=-198980
+aeroway=aerodrome
+name=Ambovombe</desc><link href="http://osm.org/browse/node/2012474943"/></wpt><wpt lat="-18.5754988" lon="47.2386462"><name>Fihaonana</name><desc>GNS:id=-213183
+aeroway=aerodrome
+iata=AMY
+name=Fihaonana</desc><link href="http://osm.org/browse/node/2021208107"/></wpt><wpt lat="-17.6303913" lon="47.7227904"><name>Andriamena</name><desc>aeroway=aerodrome
+iata=WAD
+name=Andriamena</desc><link href="http://osm.org/browse/node/2028884419"/></wpt><wpt lat="-15.0229838" lon="47.2322593"><name>node/2042516615</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/2042516615"/></wpt><wpt lat="-22.861311" lon="45.8034228"><name>node/2446929718</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/2446929718"/></wpt><wpt lat="-15.0198854" lon="47.9086057"><name>Anahidrano</name><desc>GNS:id=-200662
+aeroway=aerodrome
+name=Anahidrano</desc><link href="http://osm.org/browse/node/2972034191"/></wpt><wpt lat="-19.9529208" lon="44.5885752"><name>Analabe</name><desc>GNS:id=-200696
+aeroway=aerodrome
+name=Analabe</desc><link href="http://osm.org/browse/node/2972034192"/></wpt><wpt lat="-22.2895706" lon="43.7531183"><name>Antanimiheva</name><desc>GNS:id=-207543
+aeroway=aerodrome
+name=Antanimiheva</desc><link href="http://osm.org/browse/node/2972034193"/></wpt><wpt lat="-14.7170368" lon="47.4706165"><name>Antetikireja</name><desc>GNS:id=-207781
+aeroway=aerodrome
+name=Antetikireja</desc><link href="http://osm.org/browse/node/2972034194"/></wpt><wpt lat="-14.5400804" lon="48.6897102"><name>BeaAnkaizina</name><desc>GNS:id=-209310
+aeroway=aerodrome
+iata=WBE
+name=BeaAnkaizina</desc><link href="http://osm.org/browse/node/2972034196"/></wpt><wpt lat="-25.0086692" lon="46.3019031"><name>Berenty</name><desc>GNS:id=-211096
+aeroway=aerodrome
+name=Berenty</desc><link href="http://osm.org/browse/node/2972034197"/></wpt><wpt lat="-25.0755581" lon="46.3934498"><name>Bevala</name><desc>GNS:id=-211984
+aeroway=aerodrome
+name=Bevala</desc><link href="http://osm.org/browse/node/2972034198"/></wpt><wpt lat="-21.1256099" lon="46.5316775"><name>Ikalamavony</name><desc>GNS:id=-213772
+aeroway=aerodrome
+name=Ikalamavony</desc><link href="http://osm.org/browse/node/2973628308"/></wpt><wpt lat="-15.9837182" lon="47.6368989"><name>Mampikony/Ambohitoaka</name><desc>GNS:id=-216334
+aeroway=aerodrome
+name=Mampikony/Ambohitoaka</desc><link href="http://osm.org/browse/node/2973628310"/></wpt><wpt lat="-15.0461536" lon="49.3163917"><name>Matsoandakana</name><desc>GNS:id=-218765
+aeroway=aerodrome
+name=Matsoandakana</desc><link href="http://osm.org/browse/node/2973628311"/></wpt><wpt lat="-18.915993" lon="48.220969"><name>Moramanga</name><desc>GNS:id=-219500
+aeroway=aerodrome
+name=Moramanga</desc><link href="http://osm.org/browse/node/2973628312"/></wpt><wpt lat="-25.3380577" lon="45.4759163"><name>Tsihombe</name><desc>GNS:id=-223260
+aeroway=aerodrome
+name=Tsihombe</desc><link href="http://osm.org/browse/node/2973628313"/></wpt><wpt lat="-24.0534678" lon="46.0752515"><name>Tsivory</name><desc>GNS:id=-223641
+aeroway=aerodrome
+name=Tsivory</desc><link href="http://osm.org/browse/node/2973628314"/></wpt><wpt lat="-17.8946129" lon="48.2516981"><name>Vohidiala</name><desc>GNS:id=-224045
+aeroway=aerodrome
+name=Vohidiala</desc><link href="http://osm.org/browse/node/2973628315"/></wpt><wpt lat="-18.0122657" lon="48.0667921"><name>node/2981105322</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/2981105322"/></wpt><wpt lat="-15.437772" lon="49.6891234"><name>Maroantsetra Airport</name><desc>aeroway=aerodrome
+building=yes
+iata=WMN
+name=Maroantsetra Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/node/3735854306"/></wpt><wpt lat="-18.9061853" lon="48.4284048"><name>node/3735858554</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/3735858554"/></wpt><wpt lat="-22.6415869" lon="45.3258098"><name>Isalo Relais de la Reine</name><desc>aeroway=aerodrome
+iata=RLR
+name=Isalo Relais de la Reine</desc><link href="http://osm.org/browse/node/4634921471"/></wpt><wpt lat="-18.8007987" lon="47.4729663"><name>node/7003048878</name><desc>access=private
+barrier=yes</desc><link href="http://osm.org/browse/node/7003048878"/></wpt><wpt lat="-18.7918202" lon="47.4655151"><name>node/7003069293</name><desc>access=private
+barrier=gate</desc><link href="http://osm.org/browse/node/7003069293"/></wpt><wpt lat="-18.8003124" lon="47.477802"><name>node/7003324879</name><desc>access=private
+barrier=gate</desc><link href="http://osm.org/browse/node/7003324879"/></wpt><wpt lat="-18.8004218" lon="47.4810982"><name>node/7003332587</name><desc>access=private
+barrier=gate</desc><link href="http://osm.org/browse/node/7003332587"/></wpt><wpt lat="-11.5206087" lon="43.2758546"><name>node/7003389944</name><desc>barrier=yes</desc><link href="http://osm.org/browse/node/7003389944"/></wpt><wpt lat="-11.5376649" lon="43.2747932"><name>node/7003389976</name><desc>access=private
+barrier=gate</desc><link href="http://osm.org/browse/node/7003389976"/></wpt><wpt lat="-16.1267929" lon="45.0161972"><name>node/7051628854</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/node/7051628854"/></wpt><trk><name>Besakoa Airport</name><desc>aeroway=aerodrome
+iata=BSV
+name=Besakoa Airport
+name:fr=Aéroport de Besakoa</desc><link href="http://osm.org/browse/way/115657746"/><trkseg><trkpt lat="-15.6753795" lon="47.066161"/><trkpt lat="-15.6727814" lon="47.0627259"/><trkpt lat="-15.6710721" lon="47.0640884"/><trkpt lat="-15.6703955" lon="47.0634447"/><trkpt lat="-15.6708406" lon="47.063083"/><trkpt lat="-15.6715305" lon="47.0625223"/><trkpt lat="-15.6719223" lon="47.0622039"/><trkpt lat="-15.6721926" lon="47.0619802"/><trkpt lat="-15.6689234" lon="47.0575388"/><trkpt lat="-15.6695639" lon="47.0573081"/><trkpt lat="-15.669693" lon="47.0574047"/><trkpt lat="-15.6715336" lon="47.0597496"/><trkpt lat="-15.6729054" lon="47.0614974"/><trkpt lat="-15.6729434" lon="47.0615484"/><trkpt lat="-15.6760809" lon="47.0657587"/><trkpt lat="-15.6753795" lon="47.066161"/></trkseg></trk><trk><name>Aéroport de Toliara</name><desc>GNS:id=-223655
+aeroway=aerodrome
+iata=TLE
+icao=FMST
+name=Aéroport de Toliara</desc><link href="http://osm.org/browse/way/119550817"/><trkseg><trkpt lat="-23.3739664" lon="43.7319707"/><trkpt lat="-23.3861568" lon="43.7259741"/><trkpt lat="-23.385757" lon="43.7249234"/><trkpt lat="-23.3867096" lon="43.7244621"/><trkpt lat="-23.3862274" lon="43.7230142"/><trkpt lat="-23.3873094" lon="43.7216112"/><trkpt lat="-23.3889852" lon="43.7205797"/><trkpt lat="-23.3899261" lon="43.7203875"/><trkpt lat="-23.3913432" lon="43.7205541"/><trkpt lat="-23.3918077" lon="43.7208232"/><trkpt lat="-23.3920429" lon="43.7214959"/><trkpt lat="-23.3925133" lon="43.721829"/><trkpt lat="-23.3949888" lon="43.7219315"/><trkpt lat="-23.3948947" lon="43.7209449"/><trkpt lat="-23.3959295" lon="43.7207719"/><trkpt lat="-23.3961001" lon="43.7218803"/><trkpt lat="-23.393371" lon="43.7329092"/><trkpt lat="-23.3903722" lon="43.733473"/><trkpt lat="-23.3903251" lon="43.7302697"/><trkpt lat="-23.3860796" lon="43.7291678"/><trkpt lat="-23.3837157" lon="43.7292959"/><trkpt lat="-23.3745149" lon="43.7334772"/><trkpt lat="-23.3739664" lon="43.7319707"/></trkseg></trk><trk><name>Base ULM de Dapani</name><desc>aeroway=aerodrome
+name=Base ULM de Dapani
+sport=ultralight_aviation
+surface=ground</desc><link href="http://osm.org/browse/way/170523455"/><trkseg><trkpt lat="-12.9695969" lon="45.1578105"/><trkpt lat="-12.9728147" lon="45.1595363"/><trkpt lat="-12.9727234" lon="45.1597065"/><trkpt lat="-12.972356" lon="45.1595095"/><trkpt lat="-12.97228" lon="45.1596513"/><trkpt lat="-12.9694296" lon="45.1581225"/><trkpt lat="-12.9695969" lon="45.1578105"/></trkseg></trk><trk><name>Dzaoudzi Pamandzi International Airport</name><desc>aerodrome:type=international
+aeroway=aerodrome
+closest_town=Dzaoudzi
+ele=7
+iata=DZA
+icao=FMCZ
+ifr=yes
+name=Dzaoudzi Pamandzi International Airport
+name:ar=مطار دزاودزي باماندزي الدولي
+name:en=Dzaoudzi Pamandzi International Airport
+name:he=נמל התעופה הבינלאומי דזאודזי-פאמאנדזי
+source=wikipedia
+vfr=yes
+wikidata=Q642313</desc><link href="http://osm.org/browse/way/172224426"/><trkseg><trkpt lat="-12.8022855" lon="45.2793807"/><trkpt lat="-12.8020521" lon="45.2795291"/><trkpt lat="-12.8017696" lon="45.2791536"/><trkpt lat="-12.8016755" lon="45.2790315"/><trkpt lat="-12.8015708" lon="45.2790932"/><trkpt lat="-12.8014391" lon="45.2788422"/><trkpt lat="-12.8007117" lon="45.2776966"/><trkpt lat="-12.8009976" lon="45.2774895"/><trkpt lat="-12.8006868" lon="45.2770467"/><trkpt lat="-12.8003468" lon="45.2770172"/><trkpt lat="-12.8001728" lon="45.2768093"/><trkpt lat="-12.80039" lon="45.2766341"/><trkpt lat="-12.8004447" lon="45.2766114"/><trkpt lat="-12.8008189" lon="45.2764767"/><trkpt lat="-12.8010181" lon="45.2763082"/><trkpt lat="-12.8012184" lon="45.2765907"/><trkpt lat="-12.8012622" lon="45.276582"/><trkpt lat="-12.8014017" lon="45.2767429"/><trkpt lat="-12.8015243" lon="45.2767503"/><trkpt lat="-12.8049196" lon="45.2787701"/><trkpt lat="-12.8050257" lon="45.2788054"/><trkpt lat="-12.8052601" lon="45.2788289"/><trkpt lat="-12.80539" lon="45.278806"/><trkpt lat="-12.8056048" lon="45.2787751"/><trkpt lat="-12.8058429" lon="45.278751"/><trkpt lat="-12.8059747" lon="45.2787498"/><trkpt lat="-12.8061481" lon="45.2788011"/><trkpt lat="-12.8063825" lon="45.2788873"/><trkpt lat="-12.8066233" lon="45.2789865"/><trkpt lat="-12.8067746" lon="45.2790823"/><trkpt lat="-12.8068735" lon="45.2791496"/><trkpt lat="-12.8069862" lon="45.2791811"/><trkpt lat="-12.8071122" lon="45.2792055"/><trkpt lat="-12.8072807" lon="45.279209"/><trkpt lat="-12.8074999" lon="45.2792173"/><trkpt lat="-12.8076307" lon="45.2792236"/><trkpt lat="-12.8077529" lon="45.2792386"/><trkpt lat="-12.8078778" lon="45.2792886"/><trkpt lat="-12.8080563" lon="45.2793418"/><trkpt lat="-12.8084415" lon="45.2793734"/><trkpt lat="-12.8086303" lon="45.2792943"/><trkpt lat="-12.8088069" lon="45.2792375"/><trkpt lat="-12.8089712" lon="45.2792005"/><trkpt lat="-12.8090631" lon="45.2791975"/><trkpt lat="-12.8091868" lon="45.2791892"/><trkpt lat="-12.8092612" lon="45.2791607"/><trkpt lat="-12.8093539" lon="45.2791373"/><trkpt lat="-12.8094638" lon="45.2791345"/><trkpt lat="-12.8095814" lon="45.2791457"/><trkpt lat="-12.8097378" lon="45.2791446"/><trkpt lat="-12.8099056" lon="45.2791423"/><trkpt lat="-12.8100932" lon="45.2791512"/><trkpt lat="-12.8102776" lon="45.2791656"/><trkpt lat="-12.8104593" lon="45.2791957"/><trkpt lat="-12.8106081" lon="45.2792241"/><trkpt lat="-12.8106918" lon="45.279264"/><trkpt lat="-12.8108" lon="45.2792797"/><trkpt lat="-12.8109307" lon="45.2792977"/><trkpt lat="-12.8110179" lon="45.279374"/><trkpt lat="-12.8110803" lon="45.2794491"/><trkpt lat="-12.8111532" lon="45.2795029"/><trkpt lat="-12.8112226" lon="45.2795246"/><trkpt lat="-12.8113041" lon="45.279538"/><trkpt lat="-12.8118037" lon="45.2797033"/><trkpt lat="-12.8123617" lon="45.2801486"/><trkpt lat="-12.8128908" lon="45.2807916"/><trkpt lat="-12.8130553" lon="45.2809673"/><trkpt lat="-12.8131404" lon="45.2810432"/><trkpt lat="-12.8131927" lon="45.281062"/><trkpt lat="-12.8132254" lon="45.281058"/><trkpt lat="-12.8132986" lon="45.2811344"/><trkpt lat="-12.8133392" lon="45.2811384"/><trkpt lat="-12.8133706" lon="45.2811894"/><trkpt lat="-12.8133732" lon="45.2813275"/><trkpt lat="-12.8133549" lon="45.281412"/><trkpt lat="-12.8132816" lon="45.2815461"/><trkpt lat="-12.8132688" lon="45.2816287"/><trkpt lat="-12.813279" lon="45.2817312"/><trkpt lat="-12.8132051" lon="45.2819091"/><trkpt lat="-12.8131966" lon="45.2820182"/><trkpt lat="-12.8132241" lon="45.2822824"/><trkpt lat="-12.8132635" lon="45.2825759"/><trkpt lat="-12.813479" lon="45.2830867"/><trkpt lat="-12.8135615" lon="45.2832641"/><trkpt lat="-12.813585" lon="45.2833459"/><trkpt lat="-12.8135942" lon="45.2834601"/><trkpt lat="-12.8135432" lon="45.2836838"/><trkpt lat="-12.8135358" lon="45.2838301"/><trkpt lat="-12.8176828" lon="45.2863066"/><trkpt lat="-12.81772" lon="45.2862816"/><trkpt lat="-12.8177717" lon="45.286279"/><trkpt lat="-12.8178405" lon="45.2863491"/><trkpt lat="-12.8177723" lon="45.286466"/><trkpt lat="-12.8171263" lon="45.28762"/><trkpt lat="-12.8170781" lon="45.2876281"/><trkpt lat="-12.8169471" lon="45.2875504"/><trkpt lat="-12.8147287" lon="45.2862342"/><trkpt lat="-12.8121407" lon="45.2846894"/><trkpt lat="-12.8113227" lon="45.284223"/><trkpt lat="-12.8110723" lon="45.2841481"/><trkpt lat="-12.8108836" lon="45.2841908"/><trkpt lat="-12.8101431" lon="45.2841076"/><trkpt lat="-12.8097456" lon="45.2840674"/><trkpt lat="-12.8094054" lon="45.2840411"/><trkpt lat="-12.8092924" lon="45.283991"/><trkpt lat="-12.8092423" lon="45.2840178"/><trkpt lat="-12.8091669" lon="45.2840958"/><trkpt lat="-12.809129" lon="45.2841152"/><trkpt lat="-12.807882" lon="45.2841861"/><trkpt lat="-12.8069902" lon="45.2843258"/><trkpt lat="-12.8069795" lon="45.284074"/><trkpt lat="-12.8070352" lon="45.2839404"/><trkpt lat="-12.8070481" lon="45.2839095"/><trkpt lat="-12.8062169" lon="45.2834329"/><trkpt lat="-12.8063378" lon="45.2832191"/><trkpt lat="-12.8060402" lon="45.2830562"/><trkpt lat="-12.8059699" lon="45.2826005"/><trkpt lat="-12.8053804" lon="45.2824674"/><trkpt lat="-12.8049463" lon="45.282385"/><trkpt lat="-12.8048706" lon="45.282386"/><trkpt lat="-12.8045613" lon="45.282221"/><trkpt lat="-12.8041751" lon="45.2828969"/><trkpt lat="-12.8041144" lon="45.2829026"/><trkpt lat="-12.8040627" lon="45.2829185"/><trkpt lat="-12.8040091" lon="45.2829693"/><trkpt lat="-12.8039773" lon="45.2830292"/><trkpt lat="-12.8033466" lon="45.2826609"/><trkpt lat="-12.8030708" lon="45.2831361"/><trkpt lat="-12.8022296" lon="45.2826317"/><trkpt lat="-12.8025083" lon="45.282149"/><trkpt lat="-12.8020936" lon="45.2819296"/><trkpt lat="-12.8022061" lon="45.2817446"/><trkpt lat="-12.8018676" lon="45.2815507"/><trkpt lat="-12.8021011" lon="45.2811263"/><trkpt lat="-12.8022682" lon="45.2808361"/><trkpt lat="-12.8025265" lon="45.2804446"/><trkpt lat="-12.8025298" lon="45.2804152"/><trkpt lat="-12.8025247" lon="45.2803897"/><trkpt lat="-12.8025165" lon="45.2803759"/><trkpt lat="-12.8025036" lon="45.2803693"/><trkpt lat="-12.8024883" lon="45.2803678"/><trkpt lat="-12.8024662" lon="45.2803705"/><trkpt lat="-12.8024376" lon="45.2803466"/><trkpt lat="-12.8024289" lon="45.2803166"/><trkpt lat="-12.8024333" lon="45.2802574"/><trkpt lat="-12.8024562" lon="45.280191"/><trkpt lat="-12.8023909" lon="45.2801481"/><trkpt lat="-12.8024135" lon="45.2801117"/><trkpt lat="-12.8024276" lon="45.28012"/><trkpt lat="-12.8024703" lon="45.2800449"/><trkpt lat="-12.8023571" lon="45.279977"/><trkpt lat="-12.8023154" lon="45.2800547"/><trkpt lat="-12.8023092" lon="45.280062"/><trkpt lat="-12.8022386" lon="45.2800235"/><trkpt lat="-12.8021919" lon="45.2801142"/><trkpt lat="-12.8021781" lon="45.2801249"/><trkpt lat="-12.8020998" lon="45.2800496"/><trkpt lat="-12.8020586" lon="45.2800022"/><trkpt lat="-12.8020118" lon="45.2799482"/><trkpt lat="-12.8020933" lon="45.279865"/><trkpt lat="-12.8021052" lon="45.2798775"/><trkpt lat="-12.8022357" lon="45.2797568"/><trkpt lat="-12.80243" lon="45.2795631"/><trkpt lat="-12.8022855" lon="45.2793807"/></trkseg></trk><trk><name>Aéroport International d'Ivato</name><desc>GNS:id=-214172
+aerodrome=international
+aerodrome:type=military/public
+aeroway=aerodrome
+closest_town=Antananarivo
+ele=1280
+iata=TNR
+icao=FMMI
+is_in=Antananarivo,Madagascar
+is_in:iso_3166_2=MG-T
+name=Aéroport International d'Ivato
+name:de=Flughafen Antananarivo
+name:en=Ivato International Airport
+name:pl=Port lotniczy Antananarywa
+name_1=Ivato
+passengers=611175
+source=wikipedia
+wikipedia=en:Ivato International Airport</desc><link href="http://osm.org/browse/way/178712609"/><trkseg><trkpt lat="-18.8009992" lon="47.4845327"/><trkpt lat="-18.800365" lon="47.4846424"/><trkpt lat="-18.799904" lon="47.4847315"/><trkpt lat="-18.7993081" lon="47.4848445"/><trkpt lat="-18.7991945" lon="47.4848672"/><trkpt lat="-18.7993096" lon="47.4857279"/><trkpt lat="-18.7992638" lon="47.4857334"/><trkpt lat="-18.7993309" lon="47.4862"/><trkpt lat="-18.7993792" lon="47.4861983"/><trkpt lat="-18.7994467" lon="47.4866759"/><trkpt lat="-18.7994715" lon="47.4867231"/><trkpt lat="-18.8007213" lon="47.489286"/><trkpt lat="-18.8006798" lon="47.4897075"/><trkpt lat="-18.8011079" lon="47.4922413"/><trkpt lat="-18.8010553" lon="47.492336"/><trkpt lat="-18.8008488" lon="47.4927224"/><trkpt lat="-18.8007207" lon="47.4929588"/><trkpt lat="-18.8003504" lon="47.4937014"/><trkpt lat="-18.8002688" lon="47.4940747"/><trkpt lat="-18.8002372" lon="47.494336"/><trkpt lat="-18.8002346" lon="47.4943564"/><trkpt lat="-18.8001989" lon="47.4947211"/><trkpt lat="-18.8002497" lon="47.495069"/><trkpt lat="-18.7997513" lon="47.4951407"/><trkpt lat="-18.7996729" lon="47.4951879"/><trkpt lat="-18.7992367" lon="47.495246"/><trkpt lat="-18.798896" lon="47.4948872"/><trkpt lat="-18.7987997" lon="47.4943196"/><trkpt lat="-18.7987448" lon="47.49394"/><trkpt lat="-18.7985197" lon="47.4937763"/><trkpt lat="-18.7984803" lon="47.4936186"/><trkpt lat="-18.7984002" lon="47.4932633"/><trkpt lat="-18.798375" lon="47.4931283"/><trkpt lat="-18.798355" lon="47.4930212"/><trkpt lat="-18.7982828" lon="47.4925646"/><trkpt lat="-18.7982388" lon="47.4924966"/><trkpt lat="-18.7979058" lon="47.4920162"/><trkpt lat="-18.7976496" lon="47.4916358"/><trkpt lat="-18.7971056" lon="47.4908179"/><trkpt lat="-18.7969361" lon="47.4905721"/><trkpt lat="-18.796537" lon="47.4900055"/><trkpt lat="-18.7964189" lon="47.4898841"/><trkpt lat="-18.7963266" lon="47.4897364"/><trkpt lat="-18.7953281" lon="47.4885354"/><trkpt lat="-18.7953125" lon="47.4871701"/><trkpt lat="-18.7957816" lon="47.486745"/><trkpt lat="-18.7961773" lon="47.4863875"/><trkpt lat="-18.79619" lon="47.486282"/><trkpt lat="-18.7957679" lon="47.4856229"/><trkpt lat="-18.7953283" lon="47.4849288"/><trkpt lat="-18.7952857" lon="47.4849088"/><trkpt lat="-18.7943445" lon="47.4829084"/><trkpt lat="-18.7936989" lon="47.4815599"/><trkpt lat="-18.7933822" lon="47.4809007"/><trkpt lat="-18.7927984" lon="47.4796498"/><trkpt lat="-18.7924131" lon="47.4788384"/><trkpt lat="-18.7919876" lon="47.4779445"/><trkpt lat="-18.7919829" lon="47.4778521"/><trkpt lat="-18.7921673" lon="47.4774277"/><trkpt lat="-18.7922264" lon="47.4773028"/><trkpt lat="-18.7930324" lon="47.4767086"/><trkpt lat="-18.79329" lon="47.4762342"/><trkpt lat="-18.7931647" lon="47.4753978"/><trkpt lat="-18.7930281" lon="47.4744222"/><trkpt lat="-18.7929148" lon="47.4735869"/><trkpt lat="-18.7925955" lon="47.4730415"/><trkpt lat="-18.7923801" lon="47.4719263"/><trkpt lat="-18.7923442" lon="47.4718843"/><trkpt lat="-18.791908" lon="47.4714376"/><trkpt lat="-18.7914912" lon="47.4710434"/><trkpt lat="-18.7912804" lon="47.4708225"/><trkpt lat="-18.7915972" lon="47.4706256"/><trkpt lat="-18.7921818" lon="47.4702682"/><trkpt lat="-18.7927668" lon="47.4699047"/><trkpt lat="-18.7927383" lon="47.4697513"/><trkpt lat="-18.7927356" lon="47.4696979"/><trkpt lat="-18.7927773" lon="47.4693543"/><trkpt lat="-18.7928065" lon="47.4690646"/><trkpt lat="-18.792809" lon="47.4689385"/><trkpt lat="-18.792776" lon="47.4687695"/><trkpt lat="-18.7927341" lon="47.4686462"/><trkpt lat="-18.792663" lon="47.4685147"/><trkpt lat="-18.7926249" lon="47.4684034"/><trkpt lat="-18.7925868" lon="47.4682586"/><trkpt lat="-18.7923938" lon="47.467529"/><trkpt lat="-18.7923215" lon="47.4673319"/><trkpt lat="-18.7922517" lon="47.4671133"/><trkpt lat="-18.7922618" lon="47.4667954"/><trkpt lat="-18.7922529" lon="47.4666412"/><trkpt lat="-18.7922301" lon="47.4665192"/><trkpt lat="-18.7921729" lon="47.4663837"/><trkpt lat="-18.792098" lon="47.4662724"/><trkpt lat="-18.7920409" lon="47.4662241"/><trkpt lat="-18.7919304" lon="47.4661356"/><trkpt lat="-18.791646" lon="47.4659519"/><trkpt lat="-18.7912052" lon="47.4656588"/><trkpt lat="-18.7911437" lon="47.46562"/><trkpt lat="-18.7911458" lon="47.4655929"/><trkpt lat="-18.7916688" lon="47.4655197"/><trkpt lat="-18.7917034" lon="47.4655279"/><trkpt lat="-18.7918155" lon="47.4655576"/><trkpt lat="-18.7918202" lon="47.4655151"/><trkpt lat="-18.7918291" lon="47.4654337"/><trkpt lat="-18.7919812" lon="47.4653524"/><trkpt lat="-18.7921234" lon="47.4652518"/><trkpt lat="-18.7922085" lon="47.4651606"/><trkpt lat="-18.7923024" lon="47.4650373"/><trkpt lat="-18.7923748" lon="47.4649179"/><trkpt lat="-18.7927443" lon="47.464301"/><trkpt lat="-18.793228" lon="47.4635084"/><trkpt lat="-18.7936431" lon="47.462807"/><trkpt lat="-18.7943368" lon="47.461622"/><trkpt lat="-18.7948101" lon="47.4611547"/><trkpt lat="-18.7950996" lon="47.4609786"/><trkpt lat="-18.7953212" lon="47.4608751"/><trkpt lat="-18.7955722" lon="47.4607754"/><trkpt lat="-18.7957646" lon="47.4607057"/><trkpt lat="-18.7958333" lon="47.4606893"/><trkpt lat="-18.7960971" lon="47.4606583"/><trkpt lat="-18.7962867" lon="47.4606554"/><trkpt lat="-18.7964305" lon="47.460667"/><trkpt lat="-18.7966485" lon="47.4607232"/><trkpt lat="-18.7966925" lon="47.4607444"/><trkpt lat="-18.7967694" lon="47.460789"/><trkpt lat="-18.7968912" lon="47.460878"/><trkpt lat="-18.7969883" lon="47.4609815"/><trkpt lat="-18.79709" lon="47.4611237"/><trkpt lat="-18.7971596" lon="47.4613115"/><trkpt lat="-18.7971999" lon="47.4614585"/><trkpt lat="-18.7972063" lon="47.4614808"/><trkpt lat="-18.797232" lon="47.4615137"/><trkpt lat="-18.7972576" lon="47.4615495"/><trkpt lat="-18.7972668" lon="47.4615804"/><trkpt lat="-18.7972668" lon="47.461652"/><trkpt lat="-18.7972659" lon="47.4617701"/><trkpt lat="-18.7972769" lon="47.4618765"/><trkpt lat="-18.7972073" lon="47.4621436"/><trkpt lat="-18.7971596" lon="47.4623129"/><trkpt lat="-18.7970634" lon="47.4625722"/><trkpt lat="-18.7969526" lon="47.4629167"/><trkpt lat="-18.7968381" lon="47.463295"/><trkpt lat="-18.7967877" lon="47.4634508"/><trkpt lat="-18.7967639" lon="47.4635485"/><trkpt lat="-18.7967401" lon="47.4636898"/><trkpt lat="-18.7967172" lon="47.4638911"/><trkpt lat="-18.7967108" lon="47.4640517"/><trkpt lat="-18.7967154" lon="47.4641871"/><trkpt lat="-18.796741" lon="47.4643545"/><trkpt lat="-18.7967859" lon="47.4645568"/><trkpt lat="-18.7968298" lon="47.4647225"/><trkpt lat="-18.7968816" lon="47.464936"/><trkpt lat="-18.7969467" lon="47.4651205"/><trkpt lat="-18.7969516" lon="47.4651344"/><trkpt lat="-18.7970319" lon="47.4653533"/><trkpt lat="-18.7971549" lon="47.4655818"/><trkpt lat="-18.7972922" lon="47.4658172"/><trkpt lat="-18.7973881" lon="47.4659486"/><trkpt lat="-18.7975539" lon="47.4661251"/><trkpt lat="-18.7978156" lon="47.4663823"/><trkpt lat="-18.7979449" lon="47.4665118"/><trkpt lat="-18.7978207" lon="47.4664631"/><trkpt lat="-18.7976063" lon="47.4663899"/><trkpt lat="-18.7974126" lon="47.4663256"/><trkpt lat="-18.7972267" lon="47.4662606"/><trkpt lat="-18.7970778" lon="47.4662162"/><trkpt lat="-18.7969243" lon="47.4665518"/><trkpt lat="-18.7969946" lon="47.4669731"/><trkpt lat="-18.7970643" lon="47.4673572"/><trkpt lat="-18.7971201" lon="47.4676543"/><trkpt lat="-18.7971586" lon="47.467902"/><trkpt lat="-18.7971962" lon="47.4681061"/><trkpt lat="-18.7972658" lon="47.4684842"/><trkpt lat="-18.7972933" lon="47.4686488"/><trkpt lat="-18.7973326" lon="47.4688841"/><trkpt lat="-18.797653" lon="47.4689313"/><trkpt lat="-18.7979159" lon="47.4689627"/><trkpt lat="-18.7980027" lon="47.4689696"/><trkpt lat="-18.7982502" lon="47.4690298"/><trkpt lat="-18.7984302" lon="47.4691488"/><trkpt lat="-18.7986155" lon="47.4692665"/><trkpt lat="-18.7987554" lon="47.4694006"/><trkpt lat="-18.7988463" lon="47.4694804"/><trkpt lat="-18.7993634" lon="47.4694583"/><trkpt lat="-18.7995942" lon="47.4694462"/><trkpt lat="-18.799694" lon="47.4694526"/><trkpt lat="-18.7997908" lon="47.4694624"/><trkpt lat="-18.7998498" lon="47.4694765"/><trkpt lat="-18.7999" lon="47.4695206"/><trkpt lat="-18.8000675" lon="47.4695198"/><trkpt lat="-18.800227" lon="47.4695384"/><trkpt lat="-18.8002248" lon="47.4695836"/><trkpt lat="-18.8003717" lon="47.4703479"/><trkpt lat="-18.800433" lon="47.470718"/><trkpt lat="-18.8005137" lon="47.4713423"/><trkpt lat="-18.8005994" lon="47.4719286"/><trkpt lat="-18.8006285" lon="47.4720957"/><trkpt lat="-18.8006594" lon="47.472136"/><trkpt lat="-18.8006981" lon="47.4724215"/><trkpt lat="-18.8007196" lon="47.4724347"/><trkpt lat="-18.8007432" lon="47.4726331"/><trkpt lat="-18.8007711" lon="47.4726299"/><trkpt lat="-18.8007981" lon="47.4728976"/><trkpt lat="-18.8007987" lon="47.4729663"/><trkpt lat="-18.8007991" lon="47.4730124"/><trkpt lat="-18.8001767" lon="47.4730674"/><trkpt lat="-18.7996844" lon="47.4731169"/><trkpt lat="-18.7995415" lon="47.4731665"/><trkpt lat="-18.7994732" lon="47.473176"/><trkpt lat="-18.7992522" lon="47.4732068"/><trkpt lat="-18.7993052" lon="47.4735564"/><trkpt lat="-18.7990724" lon="47.4735957"/><trkpt lat="-18.7991277" lon="47.4739604"/><trkpt lat="-18.7991047" lon="47.4739643"/><trkpt lat="-18.7991597" lon="47.4743274"/><trkpt lat="-18.7993483" lon="47.4742955"/><trkpt lat="-18.7993778" lon="47.4744897"/><trkpt lat="-18.7993955" lon="47.4744867"/><trkpt lat="-18.7995132" lon="47.4744669"/><trkpt lat="-18.7995102" lon="47.4744473"/><trkpt lat="-18.7995339" lon="47.4744433"/><trkpt lat="-18.7995593" lon="47.4746108"/><trkpt lat="-18.7995355" lon="47.4746147"/><trkpt lat="-18.7995325" lon="47.4745954"/><trkpt lat="-18.7993972" lon="47.4746187"/><trkpt lat="-18.7994587" lon="47.4750177"/><trkpt lat="-18.7995941" lon="47.4749944"/><trkpt lat="-18.799617" lon="47.4749898"/><trkpt lat="-18.7997028" lon="47.4755563"/><trkpt lat="-18.7996797" lon="47.47556"/><trkpt lat="-18.7995621" lon="47.47558"/><trkpt lat="-18.7995435" lon="47.4755832"/><trkpt lat="-18.799598" lon="47.4759428"/><trkpt lat="-18.7995633" lon="47.4759487"/><trkpt lat="-18.7995591" lon="47.4759212"/><trkpt lat="-18.7995515" lon="47.4758711"/><trkpt lat="-18.7993992" lon="47.4758969"/><trkpt lat="-18.799406" lon="47.4759418"/><trkpt lat="-18.7994359" lon="47.4759368"/><trkpt lat="-18.7994525" lon="47.4760463"/><trkpt lat="-18.7994227" lon="47.4760514"/><trkpt lat="-18.799433" lon="47.4761197"/><trkpt lat="-18.7993112" lon="47.4761403"/><trkpt lat="-18.7993673" lon="47.4765423"/><trkpt lat="-18.8007612" lon="47.4763233"/><trkpt lat="-18.8008515" lon="47.4767845"/><trkpt lat="-18.8004036" lon="47.4770036"/><trkpt lat="-18.7998236" lon="47.4770977"/><trkpt lat="-18.7998297" lon="47.4771236"/><trkpt lat="-18.7998479" lon="47.47726"/><trkpt lat="-18.7999166" lon="47.4777828"/><trkpt lat="-18.8001197" lon="47.4777501"/><trkpt lat="-18.8002589" lon="47.4777308"/><trkpt lat="-18.8002691" lon="47.4778086"/><trkpt lat="-18.8003124" lon="47.477802"/><trkpt lat="-18.8003478" lon="47.4777965"/><trkpt lat="-18.8005446" lon="47.4780567"/><trkpt lat="-18.8006296" lon="47.4781224"/><trkpt lat="-18.8006342" lon="47.4781725"/><trkpt lat="-18.8008193" lon="47.4781462"/><trkpt lat="-18.8008862" lon="47.4783418"/><trkpt lat="-18.8009043" lon="47.4783389"/><trkpt lat="-18.8011361" lon="47.4799294"/><trkpt lat="-18.8005652" lon="47.4800223"/><trkpt lat="-18.800463" lon="47.4800382"/><trkpt lat="-18.8004923" lon="47.4802506"/><trkpt lat="-18.8003403" lon="47.4805911"/><trkpt lat="-18.8003993" lon="47.4809802"/><trkpt lat="-18.8004218" lon="47.4810982"/><trkpt lat="-18.8005429" lon="47.4817347"/><trkpt lat="-18.8008468" lon="47.48359"/><trkpt lat="-18.8009499" lon="47.4842334"/><trkpt lat="-18.8009992" lon="47.4845327"/></trkseg></trk><trk><name>Mampikony Airport</name><desc>GNS:id=-216331
+aeroway=aerodrome
+iata=WMP
+icao=FMNP
+name=Mampikony Airport
+wikidata=Q11824568
+wikipedia=en:Mampikony Airport</desc><link href="http://osm.org/browse/way/178929815"/><trkseg><trkpt lat="-16.0691106" lon="47.6392258"/><trkpt lat="-16.0700732" lon="47.638526"/><trkpt lat="-16.0744245" lon="47.6465123"/><trkpt lat="-16.0734356" lon="47.6471847"/><trkpt lat="-16.0691106" lon="47.6392258"/></trkseg></trk><trk><name>Farafangana</name><desc>aeroway=aerodrome
+iata=RVA
+icao=FMSG
+name=Farafangana</desc><link href="http://osm.org/browse/way/182816292"/><trkseg><trkpt lat="-22.804854" lon="47.8271054"/><trkpt lat="-22.8042164" lon="47.8251435"/><trkpt lat="-22.8046221" lon="47.8234583"/><trkpt lat="-22.8046917" lon="47.8226157"/><trkpt lat="-22.8049036" lon="47.8221968"/><trkpt lat="-22.8014772" lon="47.81084"/><trkpt lat="-22.8029543" lon="47.810726"/><trkpt lat="-22.8043787" lon="47.8154472"/><trkpt lat="-22.8047728" lon="47.8174342"/><trkpt lat="-22.8049699" lon="47.8183397"/><trkpt lat="-22.8053177" lon="47.8192075"/><trkpt lat="-22.8055612" lon="47.8202891"/><trkpt lat="-22.8078963" lon="47.8243695"/><trkpt lat="-22.8089579" lon="47.8260867"/><trkpt lat="-22.8090507" lon="47.8268791"/><trkpt lat="-22.8089844" lon="47.8275515"/><trkpt lat="-22.8067675" lon="47.827391"/><trkpt lat="-22.8050279" lon="47.8272312"/><trkpt lat="-22.804854" lon="47.8271054"/></trkseg></trk><trk><name>Ifotaka Airfield</name><desc>GNS:id=-213707
+aeroway=aerodrome
+name=Ifotaka Airfield</desc><link href="http://osm.org/browse/way/186649424"/><trkseg><trkpt lat="-24.8173702" lon="46.1507206"/><trkpt lat="-24.8176118" lon="46.1504787"/><trkpt lat="-24.821784" lon="46.1544949"/><trkpt lat="-24.8239708" lon="46.1565488"/><trkpt lat="-24.8240969" lon="46.1567007"/><trkpt lat="-24.8239553" lon="46.1568375"/><trkpt lat="-24.8237728" lon="46.1568012"/><trkpt lat="-24.8211604" lon="46.1543484"/><trkpt lat="-24.8173702" lon="46.1507206"/></trkseg></trk><trk><name>way/190602038</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/way/190602038"/><trkseg><trkpt lat="-23.4219386" lon="45.0362949"/><trkpt lat="-23.4222683" lon="45.0361108"/><trkpt lat="-23.4222927" lon="45.0361929"/><trkpt lat="-23.4222052" lon="45.0362439"/><trkpt lat="-23.425075" lon="45.0423238"/><trkpt lat="-23.4251564" lon="45.0422817"/><trkpt lat="-23.4251931" lon="45.0423549"/><trkpt lat="-23.4249102" lon="45.0424946"/><trkpt lat="-23.4248674" lon="45.0424148"/><trkpt lat="-23.4249509" lon="45.0423748"/><trkpt lat="-23.4221075" lon="45.0363193"/><trkpt lat="-23.4219833" lon="45.0363814"/><trkpt lat="-23.4219386" lon="45.0362949"/></trkseg></trk><trk><name>Aérodrome d'Ihosy</name><desc>aeroway=aerodrome
+iata=IHO
+name=Aérodrome d'Ihosy
+name:en=Ihosy Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/way/190602042"/><trkseg><trkpt lat="-22.3991013" lon="46.1640268"/><trkpt lat="-22.4030798" lon="46.1601628"/><trkpt lat="-22.4045003" lon="46.1589894"/><trkpt lat="-22.4051331" lon="46.1594633"/><trkpt lat="-22.4050434" lon="46.1598815"/><trkpt lat="-22.4050515" lon="46.1602383"/><trkpt lat="-22.4054739" lon="46.1619135"/><trkpt lat="-22.4056589" lon="46.1623182"/><trkpt lat="-22.4058238" lon="46.1630057"/><trkpt lat="-22.4062279" lon="46.1638743"/><trkpt lat="-22.4087162" lon="46.1663649"/><trkpt lat="-22.4090622" lon="46.1666173"/><trkpt lat="-22.4092932" lon="46.166965"/><trkpt lat="-22.4110433" lon="46.167642"/><trkpt lat="-22.4114476" lon="46.1677203"/><trkpt lat="-22.4126202" lon="46.1680641"/><trkpt lat="-22.4138757" lon="46.1687951"/><trkpt lat="-22.4131578" lon="46.1702354"/><trkpt lat="-22.399242" lon="46.1644029"/><trkpt lat="-22.3990883" lon="46.1641376"/><trkpt lat="-22.3991013" lon="46.1640268"/></trkseg></trk><trk><name>Bekily Airfield</name><desc>GNS:id=-210043
+aeroway=aerodrome
+iata=OVA
+name=Bekily Airfield
+source=ourairports.com</desc><link href="http://osm.org/browse/way/190602043"/><trkseg><trkpt lat="-24.2315421" lon="45.3053136"/><trkpt lat="-24.2315015" lon="45.304871"/><trkpt lat="-24.2421388" lon="45.3032525"/><trkpt lat="-24.2422028" lon="45.3037332"/><trkpt lat="-24.2315421" lon="45.3053136"/></trkseg></trk><trk><name>Aéroport de Beravina Fianarantsoa</name><desc>GNS:id=-213140
+aeroway=aerodrome
+iata=WFI
+icao=FMSF
+name=Aéroport de Beravina Fianarantsoa
+wikidata=Q2582157</desc><link href="http://osm.org/browse/way/192216788"/><trkseg><trkpt lat="-21.4399746" lon="47.1113615"/><trkpt lat="-21.439878" lon="47.1113129"/><trkpt lat="-21.4400383" lon="47.1102507"/><trkpt lat="-21.4402768" lon="47.1098708"/><trkpt lat="-21.4404268" lon="47.1097692"/><trkpt lat="-21.4410332" lon="47.1091243"/><trkpt lat="-21.4411955" lon="47.1091742"/><trkpt lat="-21.4426756" lon="47.1084684"/><trkpt lat="-21.4432882" lon="47.1072781"/><trkpt lat="-21.4432574" lon="47.1072582"/><trkpt lat="-21.443354" lon="47.107097"/><trkpt lat="-21.4431011" lon="47.1068607"/><trkpt lat="-21.4434177" lon="47.1062777"/><trkpt lat="-21.443539" lon="47.1063395"/><trkpt lat="-21.4437589" lon="47.1059331"/><trkpt lat="-21.4439295" lon="47.105847"/><trkpt lat="-21.4440077" lon="47.1055047"/><trkpt lat="-21.444577" lon="47.1057631"/><trkpt lat="-21.4451177" lon="47.105942"/><trkpt lat="-21.4451274" lon="47.1061568"/><trkpt lat="-21.44513" lon="47.1062136"/><trkpt lat="-21.4449409" lon="47.1063903"/><trkpt lat="-21.4450478" lon="47.1066155"/><trkpt lat="-21.4449792" lon="47.1067357"/><trkpt lat="-21.4449385" lon="47.1067388"/><trkpt lat="-21.4449094" lon="47.1067809"/><trkpt lat="-21.4449196" lon="47.1068606"/><trkpt lat="-21.4446144" lon="47.1073197"/><trkpt lat="-21.4439879" lon="47.1086377"/><trkpt lat="-21.4438263" lon="47.1090909"/><trkpt lat="-21.4437626" lon="47.1092702"/><trkpt lat="-21.4437394" lon="47.1094123"/><trkpt lat="-21.443767" lon="47.1095075"/><trkpt lat="-21.443219" lon="47.1106897"/><trkpt lat="-21.4431158" lon="47.11066"/><trkpt lat="-21.4430751" lon="47.1106631"/><trkpt lat="-21.442985" lon="47.1108427"/><trkpt lat="-21.4428934" lon="47.1108989"/><trkpt lat="-21.4427684" lon="47.1110801"/><trkpt lat="-21.4425133" lon="47.1115684"/><trkpt lat="-21.4420954" lon="47.1123684"/><trkpt lat="-21.4425315" lon="47.1126151"/><trkpt lat="-21.4419515" lon="47.1131304"/><trkpt lat="-21.4414065" lon="47.113905"/><trkpt lat="-21.4409152" lon="47.1148248"/><trkpt lat="-21.440841" lon="47.1152261"/><trkpt lat="-21.4408338" lon="47.1153667"/><trkpt lat="-21.4409021" lon="47.1155869"/><trkpt lat="-21.4400256" lon="47.1166534"/><trkpt lat="-21.4400265" lon="47.1166553"/><trkpt lat="-21.4401561" lon="47.1168986"/><trkpt lat="-21.440216" lon="47.117011"/><trkpt lat="-21.4399835" lon="47.1173093"/><trkpt lat="-21.4396898" lon="47.1177169"/><trkpt lat="-21.4395329" lon="47.1177903"/><trkpt lat="-21.4392887" lon="47.1178434"/><trkpt lat="-21.4392785" lon="47.1179121"/><trkpt lat="-21.4393773" lon="47.1180542"/><trkpt lat="-21.4393765" lon="47.118055"/><trkpt lat="-21.4392145" lon="47.1182135"/><trkpt lat="-21.4388274" lon="47.1184214"/><trkpt lat="-21.4383395" lon="47.1186835"/><trkpt lat="-21.4378758" lon="47.1183774"/><trkpt lat="-21.4380633" lon="47.1180152"/><trkpt lat="-21.4380313" lon="47.1177013"/><trkpt lat="-21.4383308" lon="47.1171844"/><trkpt lat="-21.4382276" lon="47.1170641"/><trkpt lat="-21.4391157" lon="47.1154135"/><trkpt lat="-21.4394264" lon="47.1147813"/><trkpt lat="-21.4395052" lon="47.1146187"/><trkpt lat="-21.4393773" lon="47.1145546"/><trkpt lat="-21.4397029" lon="47.1139003"/><trkpt lat="-21.4397741" lon="47.1137488"/><trkpt lat="-21.4398367" lon="47.1137785"/><trkpt lat="-21.4399717" lon="47.1135611"/><trkpt lat="-21.4401564" lon="47.1132476"/><trkpt lat="-21.4402029" lon="47.1130461"/><trkpt lat="-21.4401448" lon="47.1130164"/><trkpt lat="-21.4402873" lon="47.1127947"/><trkpt lat="-21.4403396" lon="47.1128275"/><trkpt lat="-21.4403701" lon="47.1127697"/><trkpt lat="-21.4403105" lon="47.1127338"/><trkpt lat="-21.4403792" lon="47.1125976"/><trkpt lat="-21.4404512" lon="47.1126197"/><trkpt lat="-21.4405139" lon="47.1123469"/><trkpt lat="-21.4404697" lon="47.1123359"/><trkpt lat="-21.4404943" lon="47.1121924"/><trkpt lat="-21.440556" lon="47.1122023"/><trkpt lat="-21.4407164" lon="47.1120455"/><trkpt lat="-21.4406609" lon="47.1119969"/><trkpt lat="-21.4406824" lon="47.1118302"/><trkpt lat="-21.4407343" lon="47.1118072"/><trkpt lat="-21.4407082" lon="47.1116229"/><trkpt lat="-21.440759" lon="47.1115246"/><trkpt lat="-21.440728" lon="47.1114347"/><trkpt lat="-21.4406965" lon="47.1113434"/><trkpt lat="-21.4404029" lon="47.1111997"/><trkpt lat="-21.440232" lon="47.11124"/><trkpt lat="-21.4400198" lon="47.1113129"/><trkpt lat="-21.4399746" lon="47.1113615"/></trkseg></trk><trk><name>Manakara Airport</name><desc>GNS:id=-216432
+aeroway=aerodrome
+iata=WVK
+icao=FMSK
+name=Manakara Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/way/193089762"/><trkseg><trkpt lat="-22.1147564" lon="48.0242632"/><trkpt lat="-22.1199295" lon="48.0201545"/><trkpt lat="-22.1212872" lon="48.019443"/><trkpt lat="-22.1243084" lon="48.0179821"/><trkpt lat="-22.1246963" lon="48.0186529"/><trkpt lat="-22.1231739" lon="48.0194949"/><trkpt lat="-22.1229041" lon="48.019687"/><trkpt lat="-22.1212009" lon="48.0208997"/><trkpt lat="-22.1215346" lon="48.0214941"/><trkpt lat="-22.1154571" lon="48.0254113"/><trkpt lat="-22.1147564" lon="48.0242632"/></trkseg></trk><trk><name>Tôlanaro Airport</name><desc>GNS:id=-217603
+aeroway=aerodrome
+alt_name=Marillac Airport
+iata=FTU
+icao=FMSD
+name=Tôlanaro Airport</desc><link href="http://osm.org/browse/way/193092611"/><trkseg><trkpt lat="-25.0448858" lon="46.9448068"/><trkpt lat="-25.0449606" lon="46.9448101"/><trkpt lat="-25.0458904" lon="46.9449652"/><trkpt lat="-25.0462002" lon="46.9456406"/><trkpt lat="-25.0348765" lon="46.9615419"/><trkpt lat="-25.0343909" lon="46.9613475"/><trkpt lat="-25.0343402" lon="46.9612886"/><trkpt lat="-25.0340285" lon="46.9606713"/><trkpt lat="-25.0340277" lon="46.9606164"/><trkpt lat="-25.0345975" lon="46.9597675"/><trkpt lat="-25.0346413" lon="46.9595822"/><trkpt lat="-25.0347012" lon="46.958815"/><trkpt lat="-25.034708" lon="46.9587614"/><trkpt lat="-25.0347451" lon="46.9586696"/><trkpt lat="-25.0348735" lon="46.9584939"/><trkpt lat="-25.0349057" lon="46.9584375"/><trkpt lat="-25.0349246" lon="46.9583826"/><trkpt lat="-25.0349368" lon="46.9583076"/><trkpt lat="-25.0351624" lon="46.9566388"/><trkpt lat="-25.0353267" lon="46.9554683"/><trkpt lat="-25.0353622" lon="46.9553769"/><trkpt lat="-25.0354047" lon="46.9552927"/><trkpt lat="-25.0356286" lon="46.9549487"/><trkpt lat="-25.0356888" lon="46.9548641"/><trkpt lat="-25.0357164" lon="46.9548336"/><trkpt lat="-25.0357698" lon="46.9547854"/><trkpt lat="-25.0358174" lon="46.9547403"/><trkpt lat="-25.0361149" lon="46.9544965"/><trkpt lat="-25.0366039" lon="46.9537385"/><trkpt lat="-25.036371" lon="46.9535413"/><trkpt lat="-25.0365808" lon="46.9532354"/><trkpt lat="-25.0369785" lon="46.9535714"/><trkpt lat="-25.0373585" lon="46.9538924"/><trkpt lat="-25.0390771" lon="46.9531513"/><trkpt lat="-25.0392117" lon="46.953051"/><trkpt lat="-25.0448858" lon="46.9448068"/></trkseg></trk><trk><name>Mananjary Airport</name><desc>aeroway=aerodrome
+iata=MNJ
+icao=FMSM
+name=Mananjary Airport
+name:fr=Aéroport de Mananjary
+wikipedia=en:Mananjary Airport</desc><link href="http://osm.org/browse/way/193120267"/><trkseg><trkpt lat="-21.1945093" lon="48.3606313"/><trkpt lat="-21.2084128" lon="48.3546547"/><trkpt lat="-21.208886" lon="48.3559278"/><trkpt lat="-21.2085311" lon="48.3560833"/><trkpt lat="-21.2091512" lon="48.3578679"/><trkpt lat="-21.2075809" lon="48.3583553"/><trkpt lat="-21.2074625" lon="48.3579295"/><trkpt lat="-21.203005" lon="48.3595792"/><trkpt lat="-21.2018677" lon="48.3591699"/><trkpt lat="-21.1953681" lon="48.3618021"/><trkpt lat="-21.1945093" lon="48.3606313"/></trkseg></trk><trk><name>Arrachart</name><desc>GNS:id=-209172
+aeroway=aerodrome
+ele=120
+iata=DIE
+icao=FMNA
+name=Arrachart
+name:fr=Aéroport d'Arrachart.
+wikidata=Q2902969</desc><link href="http://osm.org/browse/way/193453735"/><trkseg><trkpt lat="-12.3429829" lon="49.2843262"/><trkpt lat="-12.3444115" lon="49.2832179"/><trkpt lat="-12.3537188" lon="49.297167"/><trkpt lat="-12.353801" lon="49.2982088"/><trkpt lat="-12.3509965" lon="49.2978451"/><trkpt lat="-12.3488464" lon="49.2975672"/><trkpt lat="-12.3487751" lon="49.2930096"/><trkpt lat="-12.3429829" lon="49.2843262"/></trkseg></trk><trk><name>Aéroport de Toamasina</name><desc>GNS:id=-222056
+aeroway=aerodrome
+iata=TMM
+icao=FMMT
+name=Aéroport de Toamasina
+name:en=Toamasina Airport
+source=ourairports.com</desc><link href="http://osm.org/browse/way/196334461"/><trkseg><trkpt lat="-18.1158447" lon="49.396352"/><trkpt lat="-18.1158802" lon="49.3957653"/><trkpt lat="-18.1137917" lon="49.3955327"/><trkpt lat="-18.113689" lon="49.3958046"/><trkpt lat="-18.1125775" lon="49.3954917"/><trkpt lat="-18.1125386" lon="49.3954247"/><trkpt lat="-18.1124819" lon="49.3954209"/><trkpt lat="-18.1122412" lon="49.3953725"/><trkpt lat="-18.1122483" lon="49.3953129"/><trkpt lat="-18.1091863" lon="49.3944452"/><trkpt lat="-18.1065668" lon="49.3942738"/><trkpt lat="-18.103664" lon="49.3940951"/><trkpt lat="-18.0983221" lon="49.3937264"/><trkpt lat="-18.0983221" lon="49.3931826"/><trkpt lat="-18.0968883" lon="49.3930299"/><trkpt lat="-18.0964139" lon="49.3928176"/><trkpt lat="-18.0958971" lon="49.3927245"/><trkpt lat="-18.0946615" lon="49.3926724"/><trkpt lat="-18.0927994" lon="49.392475"/><trkpt lat="-18.0907177" lon="49.3922403"/><trkpt lat="-18.091178" lon="49.388691"/><trkpt lat="-18.0933163" lon="49.3887059"/><trkpt lat="-18.0952209" lon="49.3889592"/><trkpt lat="-18.0983858" lon="49.3892794"/><trkpt lat="-18.0987755" lon="49.3893216"/><trkpt lat="-18.1016214" lon="49.3896295"/><trkpt lat="-18.1045844" lon="49.3899461"/><trkpt lat="-18.1076748" lon="49.3903334"/><trkpt lat="-18.1095686" lon="49.3905606"/><trkpt lat="-18.1098589" lon="49.390609"/><trkpt lat="-18.1115651" lon="49.3910001"/><trkpt lat="-18.1159297" lon="49.3914582"/><trkpt lat="-18.1169137" lon="49.3916072"/><trkpt lat="-18.1174128" lon="49.3910932"/><trkpt lat="-18.1173102" lon="49.3893837"/><trkpt lat="-18.119742" lon="49.3899685"/><trkpt lat="-18.1202658" lon="49.3911081"/><trkpt lat="-18.122694" lon="49.3906128"/><trkpt lat="-18.122687" lon="49.3913316"/><trkpt lat="-18.1235789" lon="49.3915029"/><trkpt lat="-18.1236002" lon="49.3915811"/><trkpt lat="-18.1238869" lon="49.3915662"/><trkpt lat="-18.1241453" lon="49.392393"/><trkpt lat="-18.1247258" lon="49.3923185"/><trkpt lat="-18.125062" lon="49.3922329"/><trkpt lat="-18.1256567" lon="49.3919871"/><trkpt lat="-18.125731" lon="49.3923297"/><trkpt lat="-18.1265486" lon="49.3944452"/><trkpt lat="-18.1264035" lon="49.3947655"/><trkpt lat="-18.1257275" lon="49.3950448"/><trkpt lat="-18.1235365" lon="49.3954731"/><trkpt lat="-18.1222303" lon="49.3955178"/><trkpt lat="-18.122202" lon="49.3957561"/><trkpt lat="-18.1215967" lon="49.3959461"/><trkpt lat="-18.1207614" lon="49.3967021"/><trkpt lat="-18.1202057" lon="49.3970075"/><trkpt lat="-18.1199543" lon="49.3972086"/><trkpt lat="-18.1195508" lon="49.3973204"/><trkpt lat="-18.1194871" lon="49.3973837"/><trkpt lat="-18.1195119" lon="49.3974023"/><trkpt lat="-18.1194977" lon="49.3974396"/><trkpt lat="-18.1192146" lon="49.3980243"/><trkpt lat="-18.11605" lon="49.3963967"/><trkpt lat="-18.1158447" lon="49.396352"/></trkseg></trk><trk><name>مطار أواني Ouani Airport</name><desc>aeroway=aerodrome
+iata=AJN
+icao=FMCV
+name=مطار أواني Ouani Airport
+name:ar=مطار أواني
+source=ourairports.com;unknown
+wikidata=Q1432262
+wikipedia=en:Ouani Airport</desc><link href="http://osm.org/browse/way/216964982"/><trkseg><trkpt lat="-12.1298544" lon="44.42419"/><trkpt lat="-12.1308142" lon="44.4229429"/><trkpt lat="-12.131051" lon="44.4233205"/><trkpt lat="-12.1314764" lon="44.427969"/><trkpt lat="-12.1331911" lon="44.427995"/><trkpt lat="-12.133153" lon="44.4296579"/><trkpt lat="-12.1330879" lon="44.4298945"/><trkpt lat="-12.1330617" lon="44.430103"/><trkpt lat="-12.1330827" lon="44.4304041"/><trkpt lat="-12.132937" lon="44.431165"/><trkpt lat="-12.1326957" lon="44.4316846"/><trkpt lat="-12.1322513" lon="44.4318116"/><trkpt lat="-12.1320783" lon="44.4318621"/><trkpt lat="-12.131809" lon="44.432098"/><trkpt lat="-12.1320285" lon="44.4347966"/><trkpt lat="-12.1319123" lon="44.4350368"/><trkpt lat="-12.1319459" lon="44.4373154"/><trkpt lat="-12.1315898" lon="44.4373712"/><trkpt lat="-12.1310283" lon="44.43607"/><trkpt lat="-12.1305916" lon="44.4354579"/><trkpt lat="-12.1301085" lon="44.4296971"/><trkpt lat="-12.1264144" lon="44.4296835"/><trkpt lat="-12.127618" lon="44.4279289"/><trkpt lat="-12.1279503" lon="44.4280851"/><trkpt lat="-12.130035" lon="44.4279725"/><trkpt lat="-12.1298544" lon="44.42419"/></trkseg></trk><trk><name>مطار الأمير سعيد إبراهيم الدولي Aéroport international Moroni Prince Saïd Ibrahim</name><desc>aerodrome:type=international
+aeroway=aerodrome
+closest_town=Moroni, Comoros
+ele=28
+iata=HAH
+icao=FMCH
+is_in=,,Comoros
+name=مطار الأمير سعيد إبراهيم الدولي Aéroport international Moroni Prince Saïd Ibrahim
+name:ar=مطار الأمير سعيد إبراهيم الدولي
+name:en=Prince Said Ibrahim International Airport
+name_1=Prince Said Ibrahim Intl
+operator=Federal Republic of the Comoros
+source=wikipedia
+wikidata=Q653299
+wikipedia=ar:مطار الأمير سعيد إبراهيم الدولي</desc><link href="http://osm.org/browse/way/232872053"/><trkseg><trkpt lat="-11.5183908" lon="43.276273"/><trkpt lat="-11.5179025" lon="43.2734898"/><trkpt lat="-11.5176663" lon="43.2732953"/><trkpt lat="-11.5177096" lon="43.2732279"/><trkpt lat="-11.5176769" lon="43.2728076"/><trkpt lat="-11.5178822" lon="43.2728582"/><trkpt lat="-11.518045" lon="43.2727823"/><trkpt lat="-11.518222" lon="43.2723958"/><trkpt lat="-11.5185972" lon="43.2727498"/><trkpt lat="-11.5188308" lon="43.2725981"/><trkpt lat="-11.5190432" lon="43.2727209"/><trkpt lat="-11.5192556" lon="43.2724608"/><trkpt lat="-11.5197157" lon="43.2724247"/><trkpt lat="-11.519921" lon="43.2726703"/><trkpt lat="-11.5203883" lon="43.2725186"/><trkpt lat="-11.5205794" lon="43.2721646"/><trkpt lat="-11.5209829" lon="43.2723163"/><trkpt lat="-11.5213298" lon="43.2722224"/><trkpt lat="-11.5214148" lon="43.2719984"/><trkpt lat="-11.5217263" lon="43.2720923"/><trkpt lat="-11.5217546" lon="43.2718539"/><trkpt lat="-11.522059" lon="43.2719045"/><trkpt lat="-11.5230147" lon="43.2715649"/><trkpt lat="-11.52322" lon="43.2710592"/><trkpt lat="-11.5234961" lon="43.2709436"/><trkpt lat="-11.5236093" lon="43.2706618"/><trkpt lat="-11.5478189" lon="43.2661033"/><trkpt lat="-11.5483711" lon="43.2673568"/><trkpt lat="-11.5487993" lon="43.2674182"/><trkpt lat="-11.5494789" lon="43.2705574"/><trkpt lat="-11.5426654" lon="43.2717909"/><trkpt lat="-11.53778" lon="43.2726753"/><trkpt lat="-11.5381302" lon="43.2746842"/><trkpt lat="-11.5380574" lon="43.2746976"/><trkpt lat="-11.5380707" lon="43.2747745"/><trkpt lat="-11.538026" lon="43.2747838"/><trkpt lat="-11.5380991" lon="43.2752363"/><trkpt lat="-11.5377446" lon="43.2752994"/><trkpt lat="-11.5376734" lon="43.2748547"/><trkpt lat="-11.5376649" lon="43.2747932"/><trkpt lat="-11.5376559" lon="43.27473"/><trkpt lat="-11.5349287" lon="43.2753013"/><trkpt lat="-11.5343067" lon="43.2754281"/><trkpt lat="-11.5343032" lon="43.2754569"/><trkpt lat="-11.5342594" lon="43.2754495"/><trkpt lat="-11.5342305" lon="43.2754308"/><trkpt lat="-11.5342095" lon="43.275361"/><trkpt lat="-11.534122" lon="43.2753804"/><trkpt lat="-11.5340848" lon="43.2751516"/><trkpt lat="-11.5334323" lon="43.2752218"/><trkpt lat="-11.5332327" lon="43.2734731"/><trkpt lat="-11.5206087" lon="43.2758546"/><trkpt lat="-11.5183908" lon="43.276273"/></trkseg></trk><trk><name>way/290863928</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/way/290863928"/><trkseg><trkpt lat="-16.5948332" lon="44.4491615"/><trkpt lat="-16.5953197" lon="44.4491873"/><trkpt lat="-16.5948784" lon="44.4582315"/><trkpt lat="-16.594392" lon="44.4582056"/><trkpt lat="-16.5948332" lon="44.4491615"/></trkseg></trk><trk><name>مطار موهيلي بندر السلام Mohéli Bandar Es Eslam Airport</name><desc>aeroway=aerodrome
+barrier=fence
+iata=NWA
+icao=FMCF
+name=مطار موهيلي بندر السلام Mohéli Bandar Es Eslam Airport
+name:ar=مطار موهيلي بندر السلام
+source=ourairports.com
+wikidata=Q371500</desc><link href="http://osm.org/browse/way/295776319"/><trkseg><trkpt lat="-12.2941921" lon="43.7612487"/><trkpt lat="-12.2934806" lon="43.7611949"/><trkpt lat="-12.2935592" lon="43.7604064"/><trkpt lat="-12.2932264" lon="43.7595212"/><trkpt lat="-12.2936535" lon="43.7590653"/><trkpt lat="-12.2941305" lon="43.7592208"/><trkpt lat="-12.2943008" lon="43.7593898"/><trkpt lat="-12.2944607" lon="43.7595105"/><trkpt lat="-12.2948224" lon="43.7599182"/><trkpt lat="-12.2949377" lon="43.7602186"/><trkpt lat="-12.2950975" lon="43.7604359"/><trkpt lat="-12.2952327" lon="43.7603277"/><trkpt lat="-12.2962782" lon="43.7613881"/><trkpt lat="-12.2961366" lon="43.7615061"/><trkpt lat="-12.2962729" lon="43.7617314"/><trkpt lat="-12.2963712" lon="43.7616643"/><trkpt lat="-12.2967431" lon="43.7622262"/><trkpt lat="-12.2969228" lon="43.7621243"/><trkpt lat="-12.297122" lon="43.7625025"/><trkpt lat="-12.2964908" lon="43.7629133"/><trkpt lat="-12.3017738" lon="43.771247"/><trkpt lat="-12.3021052" lon="43.7718889"/><trkpt lat="-12.3022126" lon="43.7720606"/><trkpt lat="-12.3015627" lon="43.7725675"/><trkpt lat="-12.3010621" lon="43.7718532"/><trkpt lat="-12.2941921" lon="43.7612487"/></trkseg></trk><trk><name>Antsirabe</name><desc>aerodrome:type=civil
+aeroway=aerodrome
+ele=1523
+iata=ATJ
+icao=FMME
+name=Antsirabe
+name:ar=أنتسيرابي</desc><link href="http://osm.org/browse/way/322575216"/><trkseg><trkpt lat="-19.8477219" lon="47.057371"/><trkpt lat="-19.8479232" lon="47.0576814"/><trkpt lat="-19.8470695" lon="47.0584837"/><trkpt lat="-19.8470079" lon="47.0586744"/><trkpt lat="-19.8467323" lon="47.0588764"/><trkpt lat="-19.8465009" lon="47.0588692"/><trkpt lat="-19.841165" lon="47.0627524"/><trkpt lat="-19.8413543" lon="47.0631387"/><trkpt lat="-19.8363401" lon="47.0667307"/><trkpt lat="-19.8376523" lon="47.0688208"/><trkpt lat="-19.8351596" lon="47.0706851"/><trkpt lat="-19.8348403" lon="47.0701938"/><trkpt lat="-19.8332934" lon="47.0701166"/><trkpt lat="-19.8321321" lon="47.0701836"/><trkpt lat="-19.8312909" lon="47.0702853"/><trkpt lat="-19.8305693" lon="47.0702302"/><trkpt lat="-19.8303222" lon="47.0698149"/><trkpt lat="-19.8301777" lon="47.0690216"/><trkpt lat="-19.8338991" lon="47.0663411"/><trkpt lat="-19.8341161" lon="47.0666288"/><trkpt lat="-19.8353868" lon="47.0657469"/><trkpt lat="-19.8407757" lon="47.0619257"/><trkpt lat="-19.8415133" lon="47.0617949"/><trkpt lat="-19.8477219" lon="47.057371"/></trkseg></trk><trk><name>way/367222648</name><desc>aeroway=aerodrome</desc><link href="http://osm.org/browse/way/367222648"/><trkseg><trkpt lat="-17.6562051" lon="48.2088782"/><trkpt lat="-17.6561929" lon="48.2097277"/><trkpt lat="-17.6550522" lon="48.2097277"/><trkpt lat="-17.6541855" lon="48.220249"/><trkpt lat="-17.6535807" lon="48.2202032"/><trkpt lat="-17.6544296" lon="48.2096273"/><trkpt lat="-17.6545659" lon="48.2081973"/><trkpt lat="-17.6562051" lon="48.2088782"/></trkseg></trk><trk><name>Ambalavao Airfield</name><desc>GNS:id=-194048
+aeroway=aerodrome
+icao=FMSA
+name=Ambalavao Airfield
+source=ourairports.com</desc><link href="http://osm.org/browse/way/397072324"/><trkseg><trkpt lat="-21.8146408" lon="46.9077502"/><trkpt lat="-21.8150325" lon="46.9077225"/><trkpt lat="-21.8156931" lon="46.9163055"/><trkpt lat="-21.8166407" lon="46.9177821"/><trkpt lat="-21.8157958" lon="46.919006"/><trkpt lat="-21.8154682" lon="46.9182843"/><trkpt lat="-21.8146408" lon="46.9077502"/></trkseg></trk><trk><name>Aérodrome de Sainte-Marie</name><desc>aerodrome:type=public
+aeroway=aerodrome
+alt_name=Aéroport de Sainte-Marie
+ele=2
+iata=SMS
+icao=FMMS
+name=Aérodrome de Sainte-Marie
+name:en=Sainte Marie Airport
+name:fr=Aérodrome de Sainte-Marie
+name:mg=Seranam-piaramanidin' Nosy Boraha</desc><link href="http://osm.org/browse/way/463869468"/><trkseg><trkpt lat="-17.1026404" lon="49.8166245"/><trkpt lat="-17.1025681" lon="49.8173878"/><trkpt lat="-17.09628" lon="49.8166103"/><trkpt lat="-17.0933476" lon="49.81651"/><trkpt lat="-17.0924767" lon="49.8165184"/><trkpt lat="-17.0915498" lon="49.816836"/><trkpt lat="-17.090535" lon="49.8174296"/><trkpt lat="-17.0898958" lon="49.817789"/><trkpt lat="-17.0896561" lon="49.8178392"/><trkpt lat="-17.0893924" lon="49.8177639"/><trkpt lat="-17.0891287" lon="49.8176135"/><trkpt lat="-17.0890648" lon="49.8174463"/><trkpt lat="-17.0890328" lon="49.817137"/><trkpt lat="-17.0889849" lon="49.8168945"/><trkpt lat="-17.088913" lon="49.8165852"/><trkpt lat="-17.0888171" lon="49.8164181"/><trkpt lat="-17.0884096" lon="49.8162927"/><trkpt lat="-17.0884495" lon="49.816092"/><trkpt lat="-17.0888171" lon="49.8159499"/><trkpt lat="-17.0892965" lon="49.8159165"/><trkpt lat="-17.0893698" lon="49.8152903"/><trkpt lat="-17.089598" lon="49.8152349"/><trkpt lat="-17.0903575" lon="49.8147213"/><trkpt lat="-17.1021895" lon="49.8163606"/><trkpt lat="-17.1026404" lon="49.8166245"/></trkseg></trk><trk><name>Aéroport Philibert Tsiranana</name><desc>aeroway=aerodrome
+iata=MJN
+icao=FMNM
+name=Aéroport Philibert Tsiranana
+name:fr=Aéroport d'Amborovy</desc><link href="http://osm.org/browse/way/543704777"/><trkseg><trkpt lat="-15.6722093" lon="46.3563139"/><trkpt lat="-15.6749695" lon="46.3594047"/><trkpt lat="-15.6751288" lon="46.3595619"/><trkpt lat="-15.6746509" lon="46.3601437"/><trkpt lat="-15.6745314" lon="46.3603671"/><trkpt lat="-15.6741836" lon="46.3607559"/><trkpt lat="-15.6741134" lon="46.360831"/><trkpt lat="-15.671412" lon="46.3577559"/><trkpt lat="-15.6690203" lon="46.3550175"/><trkpt lat="-15.6660163" lon="46.3516431"/><trkpt lat="-15.6638046" lon="46.3490992"/><trkpt lat="-15.6611246" lon="46.3460167"/><trkpt lat="-15.6588625" lon="46.3434129"/><trkpt lat="-15.6599071" lon="46.3423954"/><trkpt lat="-15.6647844" lon="46.3480144"/><trkpt lat="-15.6657826" lon="46.3490632"/><trkpt lat="-15.6663424" lon="46.3485545"/><trkpt lat="-15.6674752" lon="46.3474416"/><trkpt lat="-15.6676989" lon="46.3474822"/><trkpt lat="-15.6681692" lon="46.347013"/><trkpt lat="-15.6684802" lon="46.3477284"/><trkpt lat="-15.668721" lon="46.3479927"/><trkpt lat="-15.6688598" lon="46.3480318"/><trkpt lat="-15.66895" lon="46.3480575"/><trkpt lat="-15.6690368" lon="46.3481043"/><trkpt lat="-15.6691015" lon="46.3481591"/><trkpt lat="-15.6691892" lon="46.3482436"/><trkpt lat="-15.6692849" lon="46.3482193"/><trkpt lat="-15.669321" lon="46.3482138"/><trkpt lat="-15.6693731" lon="46.348206"/><trkpt lat="-15.6694784" lon="46.3482392"/><trkpt lat="-15.6696316" lon="46.3483805"/><trkpt lat="-15.6696922" lon="46.3484247"/><trkpt lat="-15.6697337" lon="46.3484447"/><trkpt lat="-15.6698116" lon="46.3485103"/><trkpt lat="-15.6698075" lon="46.3487231"/><trkpt lat="-15.6698108" lon="46.3487412"/><trkpt lat="-15.6698199" lon="46.3487611"/><trkpt lat="-15.670289" lon="46.3493033"/><trkpt lat="-15.6703235" lon="46.3493574"/><trkpt lat="-15.6703376" lon="46.3494168"/><trkpt lat="-15.670342" lon="46.3495521"/><trkpt lat="-15.6703524" lon="46.3497939"/><trkpt lat="-15.67035" lon="46.3498329"/><trkpt lat="-15.6702718" lon="46.3501045"/><trkpt lat="-15.6702018" lon="46.3506307"/><trkpt lat="-15.6692598" lon="46.3514288"/><trkpt lat="-15.6682627" lon="46.350319"/><trkpt lat="-15.6676178" lon="46.3509422"/><trkpt lat="-15.6702356" lon="46.354021"/><trkpt lat="-15.6722093" lon="46.3563139"/></trkseg></trk><trk><name>Aire de compensation avions</name><desc>aeroway=aerodrome
+name=Aire de compensation avions</desc><link href="http://osm.org/browse/way/590165369"/><trkseg><trkpt lat="-18.7953828" lon="47.4764975"/><trkpt lat="-18.7954453" lon="47.4764051"/><trkpt lat="-18.7955974" lon="47.4763597"/><trkpt lat="-18.7956934" lon="47.4763878"/><trkpt lat="-18.7957441" lon="47.4764701"/><trkpt lat="-18.7957778" lon="47.4765726"/><trkpt lat="-18.7957056" lon="47.4767068"/><trkpt lat="-18.7955789" lon="47.4767707"/><trkpt lat="-18.7954401" lon="47.4767676"/><trkpt lat="-18.7953828" lon="47.4764975"/></trkseg></trk></gpx>
