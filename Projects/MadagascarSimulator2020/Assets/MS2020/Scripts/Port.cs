@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 
-public class Port : MonoBehaviour {
-	private void Start() {
-		
+public class Port : Landmark {
+	protected override void Start() {
+		base.Start();
 	}
 
-	private void Update() {
-		
+	protected override void Update() {
+		base.Update();
 	}
 }

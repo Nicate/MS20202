@@ -1,11 +1,11 @@
 ﻿using UnityEngine;
 
-public class Airport : MonoBehaviour {
-	private void Start() {
-		
+public class Airport : Landmark {
+	protected override void Start() {
+		base.Start();
 	}
 
-	private void Update() {
-		
+	protected override void Update() {
+		base.Update();
 	}
 }

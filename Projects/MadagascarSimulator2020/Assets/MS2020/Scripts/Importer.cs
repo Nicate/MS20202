@@ -45,7 +45,7 @@ public class Importer : MonoBehaviour {
 				float z = float.Parse(numbers[1], CultureInfo.InvariantCulture);
 
 				Vector3 position = new Vector3(x, 0.0f, z);
-				Quaternion rotation = Quaternion.identity;
+				Quaternion rotation = Quaternion.LookRotation(position.normalized, Vector3.up);
 
 				GameObject instance = PrefabUtility.InstantiatePrefab(prefab, transform) as GameObject;
 				

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Capital : Landmark {
+public class CruiseShip : Vehicle {
 	protected override void Start() {
 		base.Start();
 	}
