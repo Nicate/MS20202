@@ -44,8 +44,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b760a1ee52c309439208fae5de7739c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  good: 0
+  weight: 1
+  speed: 0.5
+  waitForTarget: 1
+  minimumWaitRange: 1
+  maximumWaitRange: 2
+  minimumWaitTime: 3
+  maximumWaitTime: 5
+  revenueMean: 300000
+  revenueDeviation: 75000
+  bad: 1
+  chanceOfInfection: 0.25
 --- !u!1 &8814298669756891679
 GameObject:
   m_ObjectHideFlags: 0

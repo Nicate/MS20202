@@ -44,8 +44,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 330b6665709266d41b0168b2c9682e06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  good: 1
+  weight: 7
+  speed: 1
+  waitForTarget: 0
+  minimumWaitRange: 1
+  maximumWaitRange: 1
+  minimumWaitTime: 1
+  maximumWaitTime: 1
+  revenueMean: 250000
+  revenueDeviation: 50000
+  bad: 0
+  chanceOfInfection: 0
 --- !u!1001 &1611929480071084503
 PrefabInstance:
   m_ObjectHideFlags: 0

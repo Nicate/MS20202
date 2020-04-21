@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Airport : Landmark {
+public class Airport : Transfer {
 	protected override void Start() {
 		base.Start();
 	}

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Port : Landmark {
+public class Port : Transfer {
 	protected override void Start() {
 		base.Start();
 	}
