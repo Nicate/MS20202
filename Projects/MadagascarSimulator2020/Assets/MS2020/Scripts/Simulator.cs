@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class Simulator : MonoBehaviour {
 	public UserInterface userInterface;
 
+	public Transform country;
+
 	public Transform capitalsRoot;
 	public Transform citiesRoot;
 	public Transform portsRoot;
@@ -39,6 +41,9 @@ public class Simulator : MonoBehaviour {
 	
 	public float selectionRange = 1.0f;
 
+	public string wonMessage = "";
+	public string lostMessage = "";
+
 	private Capital[] capitals;
 	private City[] cities;
 	private Port[] ports;
@@ -54,12 +59,10 @@ public class Simulator : MonoBehaviour {
 	private List<Port> activePorts;
 	private List<Airport> activeAirports;
 
-	private List<Vehicle> boats;
-	private List<Vehicle> planes;
+	private List<Vehicle> vehicles;
 
 	private bool infected;
 	private int month;
-	private float bonus;
 	private long gdp;
 
 	private bool over;
@@ -83,8 +86,7 @@ public class Simulator : MonoBehaviour {
 		activePorts = new List<Port>();
 		activeAirports = new List<Airport>();
 
-		boats = new List<Vehicle>();
-		planes = new List<Vehicle>();
+		vehicles = new List<Vehicle>();
 	}
 
 	private void Start() {
@@ -100,12 +102,10 @@ public class Simulator : MonoBehaviour {
 
 		infected = false;
 		month = 0;
-		bonus = 0.0f;
 		gdp = 0L;
 
 		updateInfected();
 		updateMonth();
-		updateBonus();
 		updateGDP();
 
 		over = false;
@@ -116,7 +116,7 @@ public class Simulator : MonoBehaviour {
 	}
 
 	private void Update() {
-		Vector2 cursor = project(userInterface.getPointOnPlane(Input.mousePosition));
+		Vector2 cursor = project(userInterface.getPointOnPlane(Input.mousePosition, country.position.y));
 
 		List<Transfer> activeTransfers = new List<Transfer>();
 		activeTransfers.AddRange(activePorts);
@@ -136,8 +136,7 @@ public class Simulator : MonoBehaviour {
 			}
 		}
 
-		simulateVehicles(boats);
-		simulateVehicles(planes);
+		simulateVehicles();
 		
 		if(!over) {
 			activateMissingLandmarks(inactiveCapitals, activeCapitals, startCapitals, capitalThreshold);
@@ -173,10 +172,10 @@ public class Simulator : MonoBehaviour {
 
 				// Here comes the poorly planned part.
 				if(landmark is Port) {
-					StartCoroutine(startCreatingVehicles(boats, new Vehicle[]{ cruiseShipPrefab, merchantVesselPrefab }, boatsRoot, landmark as Port, activePorts.Count));
+					StartCoroutine(startCreatingVehicles(new Vehicle[]{ cruiseShipPrefab, merchantVesselPrefab }, boatsRoot, landmark as Transfer, activePorts.Count));
 				}
 				else if(landmark is Airport) {
-					StartCoroutine(startCreatingVehicles(planes, new Vehicle[]{ jumboJetPrefab, cargoPlanePrefab }, planesRoot, landmark as Airport, activeAirports.Count));
+					StartCoroutine(startCreatingVehicles(new Vehicle[]{ jumboJetPrefab, cargoPlanePrefab }, planesRoot, landmark as Transfer, activeAirports.Count));
 				}
 
 				if(spawnEffect) {
@@ -307,12 +306,12 @@ public class Simulator : MonoBehaviour {
 	}
 
 
-	private IEnumerator startCreatingVehicles(List<Vehicle> vehicles, Vehicle[] prefabs, Transform parent, Transfer transfer, int numberOfTransfers) {
+	private IEnumerator startCreatingVehicles(Vehicle[] prefabs, Transform parent, Transfer transfer, int numberOfTransfers) {
 		while(!lost) {
 			Vehicle prefab = pickRandomVehiclePrefab(prefabs);
 
 			if(prefab != null) {
-				vehicles.Add(createVehicle(prefab, parent, transfer));
+				createVehicle(prefab, parent, transfer);
 			}
 
 			// Increase the interval as there are more transfers, to keep things a little playable.
@@ -345,12 +344,14 @@ public class Simulator : MonoBehaviour {
 		vehicle.transform.localPosition = reproject(position);
 		vehicle.transform.localRotation = Quaternion.LookRotation(vehicle.direction, Vector3.up);
 
+		vehicles.Add(vehicle);
+
 		return vehicle;
 	}
 
-	private void simulateVehicles<T>(List<T> vehicles) where T : Vehicle {
+	private void simulateVehicles() {
 		// Iterate a copy since we may remove some.
-		foreach(T vehicle in vehicles.ToArray()) {
+		foreach(Vehicle vehicle in vehicles.ToArray()) {
 			Vector3 position = vehicle.transform.localPosition;
 			Vector3 direction = vehicle.direction;
 
@@ -502,10 +503,8 @@ public class Simulator : MonoBehaviour {
 
 		while(!over) {
 			month += 1;
-			bonus += 0.1f;
 
 			updateMonth();
-			updateBonus();
 
 			if(month > 11) {
 				gameOver(true);
@@ -523,14 +522,10 @@ public class Simulator : MonoBehaviour {
 		userInterface.setMonth(month);
 	}
 
-	private void updateBonus() {
-		userInterface.setBonus(bonus);
-	}
-
 
 	private void increaseGDP(int mean, int deviation) {
 		// Never lose GDP.
-		gdp += Mathf.Max(0, Mathf.RoundToInt((1.0f + bonus) * (mean + deviation * GaussianRandom.value)));
+		gdp += Mathf.Max(0, Mathf.RoundToInt(mean + deviation * GaussianRandom.value));
 	}
 
 	private void updateGDP() {
@@ -565,29 +560,46 @@ public class Simulator : MonoBehaviour {
 				}
 			}
 
-			userInterface.overrideMonth("Congratulations! You survived 2020!");
+			userInterface.overrideMonth(wonMessage);
 		}
 
 		if(lost) {
-			foreach(Vehicle boat in boats) {
-				if(boat.incoming) {
-					boat.incoming = false;
+			foreach(Vehicle vehicle in vehicles) {
+				if(vehicle.incoming) {
+					vehicle.incoming = false;
 
-					boat.direction = -boat.direction;
+					if(vehicle.waitForTarget) {
+						vehicle.direction = -vehicle.direction;
 
-					// Boats are waitForTarget and planes aren't. Not exactly the best software engineering here :P
-					boat.stopWaiting();
+						vehicle.stopWaiting();
+					}
 				}
 			}
 
-			foreach(Vehicle plane in planes) {
-				if(plane.incoming) {
-					plane.incoming = false;
-				}
-			}
-
-			userInterface.overrideMonth("Unfortunate. You failed to survive 2020...");
+			userInterface.overrideMonth(lostMessage);
 		}
+	}
+
+
+	public void shutDownPorts() {
+		if(!over) {
+			foreach(Port port in activePorts) {
+				port.shutDown();
+			}
+		}
+	}
+
+	public void shutDownAirports() {
+		if(!over) {
+			foreach(Airport airport in activeAirports) {
+				airport.shutDown();
+			}
+		}
+	}
+
+	public void shutDownEverything() {
+		shutDownPorts();
+		shutDownAirports();
 	}
 
 

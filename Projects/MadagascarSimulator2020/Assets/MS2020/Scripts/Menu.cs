@@ -2,10 +2,17 @@
 using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour {
-	public GameObject backdrop;
-	public GameObject foredrop;
+	public GameObject[] gameObjectsToShowInMenu;
+	public GameObject[] gameObjectsToShowInHowToPlay;
 
-	private bool howToPlaying = false;
+	private bool howToPlaying;
+
+
+	private void Start() {
+		howToPlaying = false;
+
+		updateGameObjects();
+	}
 
 
 	public void start() {
@@ -20,7 +27,17 @@ public class Menu : MonoBehaviour {
 	public void toggleHowToPlay() {
 		howToPlaying = !howToPlaying;
 
-		backdrop.SetActive(!howToPlaying);
-		foredrop.SetActive(howToPlaying);
+		updateGameObjects();
+	}
+
+
+	private void updateGameObjects() {
+		foreach(GameObject gameObject in gameObjectsToShowInMenu) {
+			gameObject.SetActive(!howToPlaying);
+		}
+
+		foreach(GameObject gameObject in gameObjectsToShowInHowToPlay) {
+			gameObject.SetActive(howToPlaying);
+		}
 	}
 }

@@ -17,6 +17,13 @@ public class Transfer : Landmark {
 	}
 
 
+	public void shutDown() {
+		available = false;
+
+		updateAvailability();
+	}
+
+
 	public void toggleAvailability() {
 		available = !available;
 

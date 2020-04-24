@@ -7,19 +7,9 @@ public class UserInterface : MonoBehaviour {
 	public Image warning;
 
 	public TextMeshProUGUI date;
-	public TextMeshProUGUI extra;
 	public TextMeshProUGUI score;
 
 	public Camera viewer;
-
-
-	private void Start() {
-		
-	}
-
-	private void Update() {
-		
-	}
 
 
 	public void setInfected(bool infected) {
@@ -50,23 +40,14 @@ public class UserInterface : MonoBehaviour {
 		date.text = message;
 	}
 
-	public void setBonus(float bonus) {
-		// Just for the fun of it.
-		if(bonus > 1.1f) {
-			bonus = 10.0f;
-		}
-
-		extra.text = string.Format(CultureInfo.InvariantCulture, "+{0:#0%}", bonus);
-	}
-
 	public void setGDP(long gdp) {
 		score.text = string.Format(CultureInfo.InvariantCulture, "${0:#,0}", gdp);
 	}
 
 
-	public Vector3 getPointOnPlane(Vector3 point) {
+	public Vector3 getPointOnPlane(Vector3 point, float height) {
 		Ray ray = viewer.ScreenPointToRay(point);
-		Plane plane = new Plane(Vector3.up, 0.0f);
+		Plane plane = new Plane(Vector3.up, -height);
 
 		float distance;
 
