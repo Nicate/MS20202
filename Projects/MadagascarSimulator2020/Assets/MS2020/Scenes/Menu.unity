@@ -192,7 +192,7 @@ MonoBehaviour:
 
 
     If all else fails, click on one of the buttons
-    at the top right to SHUT. DOWN. EVERYTHING.'
+    at the top right (or slam the space bar) to SHUT. DOWN. EVERYTHING.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c717d2e734f71af48a5094179cbd6051, type: 2}
   m_sharedMaterial: {fileID: 4314402016223674934, guid: c717d2e734f71af48a5094179cbd6051,
@@ -262,10 +262,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 82278573}
-    characterCount: 579
+    characterCount: 603
     spriteCount: 0
-    spaceCount: 103
-    wordCount: 101
+    spaceCount: 108
+    wordCount: 106
     linkCount: 0
     lineCount: 10
     pageCount: 1

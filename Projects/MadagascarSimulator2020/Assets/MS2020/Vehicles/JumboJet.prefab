@@ -51,8 +51,8 @@ MonoBehaviour:
   maximumWaitRange: 1
   minimumWaitTime: 1
   maximumWaitTime: 1
-  revenueMean: 100000
-  revenueDeviation: 25000
+  revenueMean: 1000000
+  revenueDeviation: 250000
   bad: 1
   chanceOfInfection: 0.25
 --- !u!1001 &6113045515169791643
@@ -146,7 +146,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[2]
       value: 
-      objectReference: {fileID: 2100000, guid: ac6cb2836f812e04aac5fb71276088af, type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 0e786e4dcb90e6842a9f557b334ec5f6,
         type: 3}
       propertyPath: m_Name

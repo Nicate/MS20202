@@ -51,8 +51,8 @@ MonoBehaviour:
   maximumWaitRange: 2
   minimumWaitTime: 3
   maximumWaitTime: 5
-  revenueMean: 300000
-  revenueDeviation: 75000
+  revenueMean: 3000000
+  revenueDeviation: 750000
   bad: 1
   chanceOfInfection: 0.25
 --- !u!1 &8814298669756891679

@@ -7,6 +7,7 @@ public class UserInterface : MonoBehaviour {
 	public Image warning;
 
 	public TextMeshProUGUI date;
+	public TextMeshProUGUI overlay;
 	public TextMeshProUGUI score;
 
 	public Camera viewer;
@@ -36,8 +37,8 @@ public class UserInterface : MonoBehaviour {
 		date.text = names[month];
 	}
 
-	public void overrideMonth(string message) {
-		date.text = message;
+	public void setMessage(string message) {
+		overlay.text = message;
 	}
 
 	public void setGDP(long gdp) {

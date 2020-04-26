@@ -44,15 +44,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c33273c840e2fb94c98b19df3c7fa15f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weight: 5
+  weight: 9
   speed: 0.5
   waitForTarget: 1
   minimumWaitRange: 1.5
   maximumWaitRange: 2.5
   minimumWaitTime: 2
   maximumWaitTime: 3
-  revenueMean: 1000000
-  revenueDeviation: 100000
+  revenueMean: 10000000
+  revenueDeviation: 1000000
   bad: 0
   chanceOfInfection: 0
 --- !u!1001 &8826908064439037257

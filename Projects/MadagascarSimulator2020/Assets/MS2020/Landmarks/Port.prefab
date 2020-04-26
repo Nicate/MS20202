@@ -212,7 +212,7 @@ MonoBehaviour:
   activated: 0
   minimumInfectionRange: 1
   maximumInfectionRange: 5
-  interval: 2
+  interval: 5
   available: 1
 --- !u!1 &8231975040438901466
 GameObject:

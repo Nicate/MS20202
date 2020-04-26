@@ -34,8 +34,8 @@ public class Simulator : MonoBehaviour {
 	public int cityThreshold = 1;
 	public int portThreshold = 1;
 	public int airportThreshold = 1;
-
-	public float transferDiffusor = 1.0f;
+	
+	public float thresholdProgression = 0.0f;
 
 	public float startRange = 1.0f;
 	
@@ -128,11 +128,25 @@ public class Simulator : MonoBehaviour {
 
 		Transfer transfer = findNearestLandmark(activeTransfers, cursor, selectionRange);
 
-		if(!over && transfer != null) {
-			transfer.icon.selected = true;
+		if(!over) {
+			if(transfer != null) {
+				transfer.icon.selected = true;
 
-			if(Input.GetMouseButtonDown(0)) {
-				transfer.toggleAvailability();
+				if(Input.GetMouseButtonDown(0)) {
+					transfer.toggleAvailability();
+				}
+			}
+
+			if(Input.GetKeyDown(KeyCode.Z)) {
+				shutDownPorts();
+			}
+
+			if(Input.GetKeyDown(KeyCode.X)) {
+				shutDownAirports();
+			}
+
+			if(Input.GetKeyDown(KeyCode.Space)) {
+				shutDownEverything();
 			}
 		}
 
@@ -161,7 +175,9 @@ public class Simulator : MonoBehaviour {
 	}
 
 	private void activateRandomLandmarks<T>(List<T> inactiveLandmarks, List<T> activeLandmarks, int amount, bool spawnEffect) where T : Landmark {
-		for(int index = 0; index < amount; index += 1) {
+		int cap = Mathf.Min(inactiveLandmarks.Count, amount);
+
+		for(int index = 0; index < cap; index += 1) {
 			T landmark = pickRandomLandmark(inactiveLandmarks);
 
 			if(landmark != null) {
@@ -186,12 +202,19 @@ public class Simulator : MonoBehaviour {
 	}
 
 	private void activateMissingLandmarks<T>(List<T> inactiveLandmarks, List<T> activeLandmarks, int start, int threshold) where T : Landmark {
-		int target = (int) (gdp / threshold);
+		// Provide an early bonus that falls off following a geometric progression.
+		// We have to calculate this one by one if we want to avoid using the Lambert W-function :P
+		// But avoid looping infinitely due to there being no more landmarks left to activate!
+		int current = activeLandmarks.Count - start;
 
-		int missing = target - (activeLandmarks.Count - start);
+		float reference = current + 2.0f - (1.0f - Mathf.Pow(thresholdProgression, current + 2.0f)) / (1.0f - thresholdProgression);
+		
+		while(inactiveLandmarks.Count > 0 && gdp > reference * threshold) {
+			activateRandomLandmarks(inactiveLandmarks, activeLandmarks, 1, true);
 
-		if(missing > 0) {
-			activateRandomLandmarks(inactiveLandmarks, activeLandmarks, missing, true);
+			current = activeLandmarks.Count - start;
+
+			reference = current + 2.0f - (1.0f - Mathf.Pow(thresholdProgression, current + 2.0f)) / (1.0f - thresholdProgression);
 		}
 	}
 
@@ -314,8 +337,7 @@ public class Simulator : MonoBehaviour {
 				createVehicle(prefab, parent, transfer);
 			}
 
-			// Increase the interval as there are more transfers, to keep things a little playable.
-			float interval = pickRandomInterval(transfer.interval + numberOfTransfers * transferDiffusor);
+			float interval = pickRandomInterval(transfer.interval);
 
 			yield return new WaitForSeconds(interval);
 		}
@@ -502,15 +524,16 @@ public class Simulator : MonoBehaviour {
 		yield return new WaitForSeconds(duration);
 
 		while(!over) {
-			month += 1;
-
-			updateMonth();
-
-			if(month > 11) {
+			if(month > 10) {
 				gameOver(true);
 			}
+			else {
+				month += 1;
 
-			yield return new WaitForSeconds(duration);
+				updateMonth();
+
+				yield return new WaitForSeconds(duration);
+			}
 		}
 	}
 
@@ -560,7 +583,7 @@ public class Simulator : MonoBehaviour {
 				}
 			}
 
-			userInterface.overrideMonth(wonMessage);
+			userInterface.setMessage(wonMessage);
 		}
 
 		if(lost) {
@@ -576,7 +599,7 @@ public class Simulator : MonoBehaviour {
 				}
 			}
 
-			userInterface.overrideMonth(lostMessage);
+			userInterface.setMessage(lostMessage);
 		}
 	}
 
